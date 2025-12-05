@@ -1,0 +1,3 @@
+# FAQ Engine
+
+The "FAQ Engine" is an AI-driven system that automatically extracts, clusters, and organizes real prospect questions from sales call transcripts (via Gong or similar tools) into a dynamic, searchable internal FAQ. By identifying recurring buyer questions, grouping them semantically, and generating draft responses from internal documentation, it provides Sales, Enablement, and Product teams with real-time insights into market trends, product gaps, and buyer concerns. Reps gain instant access to consistent, AI-updated answers and talk tracks via Notion, CRM, or Slack integrations, creating a fast, reliable, and evolving single source of truth for prospect FAQs that improves training, messaging, and decision-making across the organization.
