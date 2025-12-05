@@ -1,0 +1,517 @@
+{
+  "total_qa_pairs": 350,
+  "unique_questions": 339,
+  "top_50": [
+    {
+      "rank": 1,
+      "category": "GENERAL",
+      "frequency": 5,
+      "question": "Hey, sorry. Can you hear me?",
+      "answer": "So on the driver side, like any other app that you guys use today, they'll always receive a notification in their notification bar. So they can either jump directly into that notification that they received for the mobile app through the option there or if they actually want to just jump into the mobile app, they can obviously do that as well. There's three sides to the mobile app you have active. So active, the driver has already picked up on route to next stop and or, you know, delivery assigned are trips that they have been dispatched on, not yet started. So here's the one we just sent off to our driver today. Three three four. You know, that'll finish off at the hawkeye hall of fame. Like we entered. It looks like he has quite a few trips that, you know, he has pending to pick up in the future. And then history are trips that they've completed in the past. They can go back and see if there are any historical needs or data that they want to go back. They can have access to that as well. In terms of different language types that we support for your drivers, you know, English, French, and Spanish. So the app can be converted to any of those respective languages as part of the offering there. But just to execute on this, once the driver arrives at that first location for this trip, he or she will jump into the order and they can see all the single stops that we've provided them. So there we got the four stops. Once they arrive at that initial location, they'll go and jump into that tile. All the details that you've entered on your side will be visible for them here. Once again. For this. Obviously, the more details you enter, the better it'll be for them. So they don't have to call you or, you know, email you maybe around, you know, hey, what's the order reference number? If the shipper is asking for it, they can view all that information directly on the mobile app. Otherwise they'll go ahead and click arrive that'll log the date and time that they arrived at this initial location. And then it'll mark this stop as arrived. And any changes that happen on the mobile app will also be updated on your side. And I'll showcase that momentarily. When we just jump back into the computer side, once the driver has been fully loaded from this first stop, we'll click upload proof of completion. A couple options have here. We can take a scan of the documentation. We can take, you know, a picture of the freight or whatever the case may be in gallery, if maybe the driver used their internal camera app to take the pictures. Or whatever of the documents they can click gallery, see here as well or get a digital signature as well. We'll click scan for this item and then run through the other ones as we go. So we click scan it'll auto crop, location of paperwork and similar to maybe some other apps that you have used externally like camscanner, similar to that you can crop it, add filters, add additional pages. If there are more pages to this load. Otherwise we'll click scan and that has got associated with this. We'll click upload and complete. And now essentially this first stop will be marked up as completed. And the driver will drive on route to cart connection at 45 stanford for the next pickup. So we'll go ahead and do that. We'll mark that as completed once they arrive at that stop. And then same thing here. They can either take a scan of the paperwork camera. So maybe this time around, they just want to take a picture and I don't know what will happen. They can take a picture of the freight. So here is our very big freight that the driver is picking up. And that will update the two locations there. I'm going to jump back into my computer screen to showcase what happens as your driver is kind of executing on the mobile app so that you have visibility around the freight. So back in office, this order will now the magna order three three four automatically moves into our in transit bucket to let you know it is moving. If we jump into that particular order, once again trail log activity around what's happening. It automatically moved into in transit since our driver had marked it as completed for that initial stop. If we jump into our documents tab here, we'll be able to see the proof of pickup items that the driver had uploaded. So we'll click proof of pickup. It's a PDF that gets generated. So here's that first item that the driver scanned in for the first stop. And then if we jump back and look at the second proof of pickup item that we scanned in, it'll be a picture of the freight that, you know, driver scanned in. There's always going to be some drivers that are going to be like, you know, hey, Gabriel, or, hey team that I don't want to use this app. I just want to call you or email you saying, hey, I've picked up and delivered the freight. In that scenario, you can still mark those updates internally for yourself. So you have a widget here called complete tasks. So as the driver is maybe texting you or calling you saying I've picked up or delivered, you can mark those items for yourself in terms of arrival times or completed times. But obviously, if your driver is executing it on their side, this becomes one less item that your internal office team has to complete on that they can use their time otherwise. But they'll go ahead and put in, I delivered this at this time. If the driver once again sends you any documentations back around the PDF or for pod, you can upload that here directly as well\u2026 that will get completed. And then I'll jump out to the mobile app to showcase the final delivery. If you were to use a digital signature option, what that looks like? Oops.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)",
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)",
+        "Gabriel & Karandeep | Rose Rocket Demo (Oct 3)",
+        "Rose Rocket Demo (Oct 3)",
+        "Kanwal & Karandeep | Rose Rocket Demo (Oct 7)"
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "GENERAL",
+      "frequency": 2,
+      "question": "What do you mean by that? Like?",
+      "answer": "Don't put the driver's name. So because of the randomly, the driver will change every day from the respective routes, so we can make a route as well as, or either the truck number. Yeah. If you want to name the driver with a specific route name, you can do that as well. Okay. Yeah. And then we're going to put in the truck and trailer that will be assigned to this specific trip. So maybe it's gonna be truck number eight one. And now we can send this off to our driver for the trip.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)",
+        "Kanwal & Karandeep | Rose Rocket Demo (Oct 7)"
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "GENERAL",
+      "frequency": 2,
+      "question": "Can you see my screen now?",
+      "answer": "Yes. Awesome. Darko. So what you're seeing here today is the rose rockets platform. Two things that are important from an infrastructure perspective. Sorry, I forgot to mention, feel free to ask any questions as I'm going through this. No need to wait until the end. Okay. The things that I'm highlighting here on the left hand side are what we call modules within rose rocket. Each one helps to unlock and deliver a different functionality out of the system. Once you open up a module, it'll showcase a branch of boards. Now, these boards can be built in collaboration with you at time of onboarding and training. If you want to create your own custom boards, you can do so as well. But essentially, it's a configured view around that just in this new orders on different information. So example, if I go into my claims management board, it'll be still orders focused but it'll have relevant information as it pertains to claims as an example. So right now, I'm under submitted, so I can see all the claims that have been submitted for a particular order. And then also, you know, relevant fields around that. So claim type, who's the responsible party? What amount is it when it got submitted? So all that is noted there, alternatively if I jump into let's just say my order coverage board, as the name suggests, this will be a view around all of the orders that are in my system that based on the lifecycle will be filtered out. So right now, I'm in new it'll showcase all the new orders that are in my system that have not been dispatched yet. Once I've sent a tender or load confirmation to a carrier, they'll populate under this view. Once the carrier has confirmed it'll, be under book. So here's all my book loads so on and so forth. Once a load is moving, it'll be in transit. And once a load has been completed, it'll be under delivered view here. Okay.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)",
+        "Milos & Karandeep | Rose Rocket Demo (Oct 8)"
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "GENERAL",
+      "frequency": 2,
+      "question": "Hey, good morning, Gabrielle. How are you?",
+      "answer": "Good. How are you? I noticed you there. I was looking at my phone. Let me just close my door. Yeah\u2026 John. Okay, John's, busy. So it's just me and you. Yeah, no worries. The call is being recorded and I'm going to set up a shared workspace with all our recordings and material and pricing so you can pass along to him once that's available as well.",
+      "appeared_in_calls": [
+        "Gabriel & Karandeep | Rose Rocket Demo (Oct 3)",
+        "Joe & KP | Rose Rocket Demo (Oct 3)"
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "GENERAL",
+      "frequency": 2,
+      "question": "No payroll. Got it. And then are there times where you ever have to broker out your freight or is everything done 100 percent on your own trucks and trailers?",
+      "answer": "Sure. Yeah, we do sometimes. Got it. So in that scenario, you'll also have a module here called partners. So essentially partners are carriers that you'll be brokering your freight. To these are in my database of all the carriers that I've created a couple of things that we can do. So if we jump into a specific carrier profile, you can keep track of all their documents. So if you have an agreement with them, you can store that centrally all their insurance documents for their compliance. You can upload as well. So it looks like for this carrier, I have their insurance details and they're expired because the date is way past June. So now this carrier will go into compliance issue, it'll be inactive. I can't issue them freight until I get updated insurance details. But in terms of the workflow that you will experience with them is similar to how we sent off that order to our driver, but there'll be just a different couple of widgets instead of send to driver. We'll have assigned partner and cost. We'll go ahead and click select partner. We'll choose the carrier that will be tendering out or brokering the freight out to. So maybe it's going to be this carrier here. Once again, you can select the currency that you're issuing for this carrier. We'll go and put in the amount that we're brokering this out to. And then once again, we have a couple options here depending on how you want your workflow to go. If you guys just want to send a PDF manually out of your email today, you can download the PDF version of the rate confirmation. And this is what that PDF would look like. Once again at time of onboarding, you can customize this, move things around. But, you know, we've got our pickup details where it's picking up where it's delivering and the rate we're offering them. Alternatively. What most of our customers do is the digital tendering of this. So we'll click send to partner. We'll choose the contact that we spoke with on the carrier side. Once again, if there's any further documents you want to attach, we can select here and we'll click share. Now an email will be sent off to our carrier. As part of a digital tender. This moves into tendered status. I'm going to jump into my email and this is the email that your carrier would receive. Once again, it'll be your logo, your information, they would click view rate on details. And now from here, they can see all the relevant details that you've entered for them. You know, where it's picking up. Where it's delivering the offering. And then from here, they can either decline it. Maybe they don't have capacity for it, whatever the case may be, and they can put in a reason so you can keep track of that historically. Otherwise, I'll click accept offer. They'll put in their information. Now, your carrier or the brokered party has accepted this load. And a couple things happen back in office one, you'll receive an email saying, hey, alpha one accepted your offer. And here's who accepted it. And then if we jump into that particular order, there'll be some trail log activity as well as saying that alpha one has accepted your offering and it automatically moves into book status.",
+      "appeared_in_calls": [
+        "Gabriel & Karandeep | Rose Rocket Demo (Oct 3)",
+        "Rose Rocket Demo (Oct 3)"
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "GENERAL",
+      "frequency": 2,
+      "question": "Yes, I can hear you now. How are you all?",
+      "answer": "Good. Awesome. I appreciate you taking the time to connect today. I know John spoke with you yesterday, yeah, yesterday. Thank you.",
+      "appeared_in_calls": [
+        "Kanwal & Karandeep | Rose Rocket Demo (Oct 7)",
+        "Diane & Colin | Rose Rocket Demo (Oct 9)"
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "GENERAL",
+      "frequency": 2,
+      "question": "How can I hear you?",
+      "answer": "Awesome. so one, your driver will receive a notification like any other mobile app. So hey, here's your next load. So they can click into the notification. If not, they can jump into the mobile app as well directly mobile\u2026 app that then you have active so active on route to next stop or delivery assigned. And then history, you know, complete in the past for the new one we just sent to our driver here's. The one order 340. Do our driver pick up location? The he\u2026 can go and jump into the pickup tile. The more information you have, the easier it is for the driver not to bother you through phone or text on any of the details. When the driver arrives, they arrive at task. Also a late time and date log for Johnny and it was a driver pickup location. They point you out, jello driver fully loaded or your shipping location though on an a upload proof of completion car. Now at the digital signature, last like the shipper, though digital scan. We currently have documentation. So maybe for pickup us, he's gone. And then on delivery we'll do digital signatures. So if we click scan\u2026 it's going to open up the camera app and then similar to camscanner document\u2026 the scan. And then the additional pages are you can click plus and scan in as well. We'll click next J, you know, picture, Fred, we'll click camera and take pictures as well. Otherwise upload and complete\u2026 when the proof of completion is uploaded or the completed time, we logged in for the driver departure time and we go back, we'll pick up complete mobile update. I'm going to jump back on your side to show what happens in office. So back in office, they load automatically in transit. So if we click documents proof of pickup and see it right away. So here's a document that the driver scanned in that I can see right now. And then just to complete the trip on the driver's side, my mobile app, the Victoria, he or.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 7)",
+        "Rose Rocket Demo (Oct 8)"
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "GENERAL",
+      "frequency": 2,
+      "question": "I am good. How are you doing?",
+      "answer": "Good. A lot better. Good. It's a little under the weather, but as you can see, working from home, still, I don't want to get anybody at the office sick. Yeah. Glad you're starting to feel better. Yeah. It took\u2026 a whirl after the weekend. I've been training for the past couple of months for a half marathon that's coming up. So the last one just kind of, threw me down. I've been feeling kind of battered. I think that's kind of what put me through it.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 8)",
+        "Matt/Nicolas Rose Rocket Demo (Oct 8)"
+      ]
+    },
+    {
+      "rank": 9,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Yeah, yeah. Yeah. I mean, that's totally fair. Some people like to do a big search. They look at a bunch, some people just like to go one at a time. So, I hear you either way. Cool. Wow. As far as the demo goes today, I want to give you like a high level overview of the platform. Talk about some of the tools like our automated order entry, dispatch, mobile app, things of that nature. We'll go through like the LTL consolidation. We'll go through rating accessorials, fuel all those things. And I'll leave lots of time for questions as well. Sound good?",
+      "answer": "Yeah. Cool. Alrighty. Let me\u2026 just share my screen and then we will hop into it. Let's just make one.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 10,
+      "category": "CUSTOMIZATION",
+      "frequency": 1,
+      "question": "Interrupt you? Quick question. So how do you have all these orders in your file? Is that something that your customer booked it for you or you booked it for them?",
+      "answer": "I'm just demoing like this is just demo data. Like this is just made up data.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 11,
+      "category": "IMPLEMENTATION",
+      "frequency": 1,
+      "question": "You're wondering how order creation actually starts?",
+      "answer": "Yeah. Yeah. So there's a couple of ways you can manually create an order. You can use a customer template. So, sorry use a customer portal. So as a customer, I can essentially, I create a board like I've got a walmart Canada portal here. And so from here, I can share this out with my customers. Like I would share this. I've shared this with walmart for example. And so they log in\u2026 and I think in the preview version here, you don't actually see but it looks just like it does on my end where they can come in and they can create an order. And so they create an order essentially that becomes a quote request. It flows through onto my board. I'll see a quote request. This one, they've accepted the quote so that's showing here. And then once it's accepted, then I would go through like the dispatch process. So that's if I'm doing a customer portal. And this customer portal is like quite configurable in terms of what is shown on it, you can hide information. You can show more information depending on your relationship with a customer. But essentially like this is what they come in. This is what they come in and see on their account. Like it's just this board. It looks like this, but they do have the ability to like, there's a create order button. They press create order, and that allows them to submit an order request to you, which you can then quote on. Okay. And this is completely like login based, right? Not a portal, right? You can log in from anywhere.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 12,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "An app or anything like that, right?",
+      "answer": "No, you don't need to download an app. Like basically how it works is for any given customer. Like best buy here, I can come in and I can press create customer portal. So I choose who I want that to and I can actually select like I can set up multiple different types of customer portal views and I can choose which one I want to send to them. So like if I have one for a customer where all I want them to see is like the status of their order pickup delivery location, and that's it like I can do that or I can have one that's much more detailed where maybe I allow them the ability to like come in and edit a po number after the order has been placed or edit commodities after it's been placed. Like you can get very customized in terms of how that's done. So, what I would do here is I just add in a person\u2026 from that company to invite to their portal. So I'll create a portal for best buy right here. And I'll actually hop over to one of my demo emails and we'll wait for that email to come in. Customer can press add this portal. This isn't great. Oh, I need to open this. Sorry from a, that's logging into my like actual email like it logs into mine. And then it shows me a bunch of rose rocket accounts. So I would just go into like an email where I haven't signed into any already and accept that invite. So I would open this in like an incognito tab. We can try, we can do that one more time. To do.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 13,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Does that make sense? Yeah, yeah.",
+      "answer": "Simple, yes. And then like as the customer in that portal, I can click into my order and the, information here is rather limited. We can choose like which steps we want to make available to them, like if we want it. So they can select like, hey, there's a pick of appointment needed to be booked et cetera. Like these can be exposed to them. We can hide steps from them too. So we can allow them to kind of make edits that they want to, onto their orders. And they can see like kind of this limited information. But if you want to make that larger, show them more, you certainly can. And you can also, I don't have it set up in here, but you can like extend tracking information too for the order. So that's one way to get an order into the system. There's a couple of other ways as well. So, one of them is our data bot tool. So if they're emailing you, if they are, sending you like a rate, if you're getting a rate confirmation from a broker, whatever, you can use our data bot tool either as an email import or data bot itself to get, to take a load and put it into the system. So I can take a, like really any image file. This is like a shipper load that's a screenshot of an email. You can directly forward an email as well. Like if it's plain text, you can just forward it to a unique email address that's set up for your account, and it'll create a load for you in the system. So we can automate the entry of your orders from pretty much anywhere you're receiving them from, whether you want it to be from a portal, whether you want it to be API, Edi, email, just about anything.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 14,
+      "category": "CUSTOMIZATION",
+      "frequency": 1,
+      "question": "So, taking a look at the customer portal, taking a look at like the data bot tool. Obviously, the first question that you asked in this demo was like, how do I get an order into the system? So I'm curious how those options and methods are landing with you? And if you think that they would be valuable to you and add some efficiency or not?",
+      "answer": "Yeah. I mean, the usual way of, for us to receive order is just like customer books them like 90 percent of the time they books them. So, our customers have their logins and they'll just be like, and I like to see their customers or like where it says pick up delivery and appointment number of skates, weight reference number, po number.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 15,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "How would that look like? So pretty much they wanted to have a very simple easy solution, right? Go to my website, gounited CA, for example. Yeah.",
+      "answer": "Yeah, I've I, You've seen that before, right? Yeah.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 16,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "This is what I, you know, do you have something like this?",
+      "answer": "Yeah. So it's not exactly like a form that looks exactly like this, but I will show you what it looks like on the customer from the. Customer, Yeah. We can definitely go through what it looks like on the customer side here. Just give me one second.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 17,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Yeah. So they don't okay. It has the dropdown there. Okay?",
+      "answer": "Yeah. There's a dropdown for the type, the quantity. Those are like, yeah, as.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 18,
+      "category": "CUSTOMER PORTAL",
+      "frequency": 1,
+      "question": "They book it and they print a couple of copies and they put it on the shipment, right?",
+      "answer": "Yeah, they can do that. Like I don't have it turned on. We'll just say this is going to go to best buy stockyard. I don't have it turned on by default, but yeah, like a Bol is generated and then we can just change the settings on that document so that it's shared through here and they can download it. So we got our stops and tasks a reference number with our times. So now the next step for us is just to actually go in and put in that order, put in that order request\u2026 one second. So I'll just submit that order request out. So now you place the order right now, I wanted to see from dispatch panel when you make the change and I wanted to see from the customers panel how it changes here.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 19,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Yeah, because it's like because this is, we split it into two trips, okay?",
+      "answer": "Because. like if we look at this order, we did a split to our terminal. So if I look at my whoops, if I look at my legs on my order, so I\u2026 don't know what I just had to do that I look at the legs on that order, 165 here. If we go into the tasks, I group it by legs. Like we can see there's two legs, one leg from the pickup to the split at our terminal, and one load and delivery from our terminal. So that's why you can assign that and you can bucket those together. So like I know you do a lot of LTL. So if you're doing, you know, a pickup from Mississauga to a terminal, you're doing a cross dock like you're going to do like, you know, maybe three local deliveries total like 16 skids, you're going to cross dock them and then split them out onto separate trips and reassign them like that's something you can do really easily by just splitting out that order at a terminal and then putting trip one with one driver or putting that first leg on a trip with another driver. And then, so,",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 20,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "What is the like trip planning and consolidation look like in the system today on your end?",
+      "answer": "And so for us, it's like most of the orders style till overnight shipments, right? So we will dispatch for the driver that's picking up today. Yeah. And, at the end of the day, we will dispatch back to a different driver.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 21,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Okay. And how do you like combine those? So like do the planning, for combinations of trips? So like I've got, you know, six skids that came in overnight. I've got four skids that came overnight and I've got three skids that came in overnight and they're all going to, you know, rexdale, various places in rexdale, like how do I, how do you combine those onto like a trip for a driver or do they just see the orders and they know, okay, what?",
+      "answer": "To do six skids, seven skids and three skids would have like individual bill of rating. So six it's going from abc to xyz, for example. And then second one is like let's say one, two, three, two, six, seven, eight. And another one is like that. So it's so all those bill of rating, when you dispatch them, you'll see three different orders from three different customers. And if it's all marked as picked up. So drivers aware that it's in the warehouse, it's already been picked up. So they'll come to the warehouse, pick them all up and suggest him the route, how he should be going. However, if there is any like appointments, then, you know, they have to like look at the appointment time and then they have to maybe just go to the little, further delivery. And then they'll come back so that dispatcher will read the manifest and then he'll give them instructions. Hey, you know, this got an appointment delivery, just go to walmart, and then come to home depot. It's like that. Got it. Yeah.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 22,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "And like that manifest that they create for them. Are they doing that? They're doing that in the system and giving it to them? Or are they doing it like manually outside?",
+      "answer": "The driver usually, at the end of the day, when driver the dispatch leaves, he can print out the manifest like, you know, the system will suggest. And if he might have to move up and down depending on the appointments, if there is any, and you might just manually move it and then you just print it and put it in their folder. So when they come in the morning before they get, when they get the keys, they'll just take the manifest\u2026 as well. Gotcha. Okay. And are they using like a mobile app for like capturing their pod? Yeah.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 23,
+      "category": "PRICING",
+      "frequency": 1,
+      "question": "We use that as well for orders and movies and they can, you know, they can just, all the orders are being dispatched online. So it goes to their app. They just click on it, confirm it when they see it when they get a chance, right? So it's budget aware that, okay, the order's been acknowledged. And when he picks it up, he just then just mark it as picks it up. And if there's any description, see at the time of the pickup, let's say it's not two skates. It's three skates. Now, let's say it's damaged. They can just mark it as damaged. Take a picture and say, hey, you know, two skates but it's not 50 pieces. It's 48 pieces right away, change it and update it to the dispatch. Everything is like instant, right?",
+      "answer": "Yeah. And, yeah, and then they can take before after pictures and also ask the customers to sign on the device as well.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 24,
+      "category": "PRICING",
+      "frequency": 1,
+      "question": "So, I really don't want it to be the dab because it's not that much. It's like 25 dollars for the tablet? Yeah. But the problem is, I don't think that I would want to be carrying another gadget?",
+      "answer": "Right. And, you know, sometimes they forget their own phone, right? Yeah. So it's too much for them. So we spoke to them. We had a meeting and then we asked them either, you know, use the company phone or we will get you the tablet. I said they'll use the company phone. So, which one's fine. Cool. Okay. Makes sense. So, it sounds like if I'm hearing you right, there's not many issues on the planning and dispatch side. Things go through the phone. The drivers kind of know naturally like what\u2026 they should be doing based on the status of the loads and you're not having any issues with the mobile app for documents.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 25,
+      "category": "CUSTOMIZATION",
+      "frequency": 1,
+      "question": "Sure. And so this is going to change the status of this load. So, when I'm in, when I'm looking at, my main board, I can see like where it's at, is it in transit? Has it picked up et cetera? And then when I actually complete that delivery, so like let's say it's the fourth and I'll just upload like a random Bol here, press save and\u2026 automation is going to run that checks. Do we have a proof of delivery on file? And if it does proof of delivery on file, is going to switch to green and we'll see on the board, it's delivered and the pod on file is green. So that helps a lot from the invoicing side, we can tell like at a high level, okay, is there a pod for this order or not?",
+      "answer": "The reason why a lot of these are red just because I demo a lot out of this account. And a lot of times I create an order and we don't go through all the way of all the way through and complete that upload or pod et cetera.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 26,
+      "category": "CUSTOMIZATION",
+      "frequency": 1,
+      "question": "Yeah. The eta does run, it currently runs manually. So like you can change the eta on this. And so like on the customer side that can let them know, hey, is this like early, is this on time? Is it delayed? So I can change that?",
+      "answer": "So, every time you make a change, they get notified. Yeah, you can definitely, you can set that up for the customer. So delay alerts like for this customer is enabled. So they should get for this like dummy customer. They should get a email that's telling them that their order is delayed. Somewhere, I saw there was an option to set eta.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 27,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Yes. So, live tracking will run off of the eld or if you're not using an eld, then I can run off the mobile app that you use like the roserocket mobile app?",
+      "answer": "The driver's mobile app, you should tag to the driver's app. Okay? So the driver gets up in Mississauga, and if he's coming to Scarborough all the way from Mississauga to Scarborough will be, they can be monitoring that. Yeah. Or else, eld\u2026 okay. So, driver's eld, whoever has installed the eld because not all of assets have eld, yeah, because some of their trucks are like only being used locally.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 28,
+      "category": "INTEGRATION",
+      "frequency": 1,
+      "question": "Oh, yeah. I get what you're saying like, sorry, do you mean like an integration with Amazon?",
+      "answer": "Let's say, okay, let me just let you know. So a customer of mine wants, let's say I'm working with HM. Yeah. So, HM would have their customers go to their website, place an order. Let's say I place an order for a sweatshirt. Okay? And the customer would get a notification on the email saying that, okay, this has been picked up. Now, eta is three to five. Oh, this has left Bolton warehouse. This eta would be the end of the day or three to five and it'll keep them notified every time, you know, they can track it on the email. So, it goes to each customer that bought\u2026 the item using their information, their email address and everything.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 29,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Okay. Because HM would have to take the API or Edi from, your system and they're going to have to use that. So you, would your system allow that to happen? Or do you have anything like that?",
+      "answer": "Yeah. Like, I mean, we could do the Edi, like Edi in and out for sure for the status updates that would be fine. We just don't have like a custom\u2026 like an end customer facing portal. You know what I mean? Like it's like it's fine for like a business to business, but it's like B to B to C. We don't have that portal. Yeah.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 30,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "You get what I mean, right? I mean, if you place any order online, you can use your phone, right?",
+      "answer": "Yeah, it's like, we don't do like the tracking link like, you know, like fedex does\u2026 not at this time, but we can give updates to, you know, your customer like we can, you can give up to your customer. Not to the individual, right? But. Not to their end customer.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 31,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Your current system do that?",
+      "answer": "I don't even know. I haven't asked them honestly, but I know we have provided the API for some of the customers they requested it and we have given them. So, you know, whatever the reason they're using it, I don't know, but I am working with another customer. There might be an opportunity for me to have that option because their customers buy stuff online, right? They're gonna want to know. I mean, not everybody's looking at it like, you know, I ordered it. Where is it? Where is it? Like that? I mean, they just like to be notified, you know, everybody's busy, they place an order. They might even forget it like, you know, but they're like, okay, the order has been dispatched eta is tomorrow. No, and once it's delivered, they get a notification, okay, it's delivered along with the pictures. It goes to their email. It's done. Yeah. That becomes nobody's problem. Now, nobody bothers nobody and that's it. So, I might, I don't know, maybe not until next year, but maybe I will have to look into that option soon.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 32,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Right. Yeah, makes sense. I know, we spent about 45 minutes kind of going through things. It seems like what, what's landed or what's been interesting so far is like some of the eta stuff\u2026 and then a little bit of like the order entry automation with the scanning of like a ratecon or an email, that sort of thing, just kind of curious generally how things are landing with you. It seemed like this is kind of an exercise of just going out to see what else is out there\u2026 and that's fine. Like I'm happy to kind of show you what we got. But I also want to get a sense of like, you know, are you looking at this and going that is like interesting? You know, I see that there's some potential here. Are you just?",
+      "answer": "It's interesting and it's you know, I, it certainly has more features than what I, what I'm using or maybe I don't know if I'm I mean, we have been using this for a very long time and they took me some changes and they took me, they did it like recently. I mean, one good thing about this is just, this is like cloud based, I guess. So you can log in from anywhere. Yep that one is just like you don't have the application. So if you are assigned to the one computer pretty much, you can only log in from there. Unless if you log in from another computer, you're gonna lose all the data on this one. So you gotta take backup and blah, blah, blah and then to upload it onto another one. So we have it on the server and then we have it on a few computer locally used the same Lan, right? And outside of that office, it won't work unless, you know, because they're not communicating with each other, that's a problem. So, this is cloud based. It's certainly something that we can look into, but it has lots of, a lot of the options that make me wonder, do I need to have it like that? Because there are so many options here as I can see. Can you just go by like on your left corner? I mean, left hand side, like.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 33,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Here. What is partners?",
+      "answer": "Yeah. So this is like, I've got like everything that we can, you can broker out of here. You could like be a shipper, you can be a carrier. So like you can do LTL, you can do ftl, you can do drive in, you can do bulk like, so I've kind of got a bit of everything set up in here. And that's why it is so busy. Yeah, partners are like if you're brokering a loadout or if you've got a. Carrier? Yeah, that's what I thought. Yeah, if you have a partner carrier, you just like take their information and then, and, then you just send them a load. So like for example, on order 165, if I wasn't moving this on my own assets, I actually wanted to tender it out to a partner. Then like I could just come in here\u2026 just wants to take a second to load. For some reason. I'll just come into this Guy, come into this order here. And then like I can switch this over to broker. And so like from here, now, I'm actually gonna have access to a workflow that's broker specific. So I can like add a carrier onto this load. I can, you know, I want to do it per leg. Like I want to sign into one carrier for the origin and one carrier for the destination. Like I can do that\u2026 just throw in a partner. I can get a spot quote. If I have any saved tariffs, I can add those in, but I can just like add a spot quote onto this, save it and then fire it off to that carrier. We didn't talk about this. I think it's going to be useful though for you. It's like on the rating side, you can set up kind of as many tariffs as you want. You can set them with, you know, with customers and with partners. So like you might have maybe an LTL skid rate that you have for your customers. You've got different lanes on it with different rates per skid. You've got your break points and your max costs. You got a fuel index that you add on to this. You can set up custom fuel indexes that change weekly. You can also just on the fuel side connect into fca. So a lot of flexibility in terms of how the fuel works, you can just make this effective for whichever dates you want. You can modify it as needed. So that can help a lot with rating. And on the accessorial side, you can set up flat rates per dimension percentage, all sorts of different rating schemes for accessorials. And you can also assign those accessorials on the customer. So I've got like a customer profile, say like for arrive logistics. Every time I work with them, I know that I'm going to do like a tailgate pickup or I know that I'm going to do like a lumper at destination. And I'm always going to have a like tarping fee or something. I don't know. I can just add those on.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 34,
+      "category": "CUSTOMIZATION",
+      "frequency": 1,
+      "question": "Something like that. Yeah. And then when the customer choose like three skids and you have to add 120 20?",
+      "answer": "Yeah, yeah, totally. Yeah. So you can set up different calculation methods. There's like flat rate, so that's like you do like you have one skid, two skid, three skid, four skid rates. You'd also do like per dimension, you could do cwt. Yeah. So I think for dimension, I think we can do quantity which is good. Then you can do cumulative\u2026 or individual. So sum of the individual rates. Yeah. So do that cumulative. And then you set up your lanes and rates. So we'll just do like, I've got some zones already saved in here. So this would be like, oh, do I not have it? No, I should have some. So maybe I've just got like my gta to maybe it's intro gta\u2026 or we'll just do this where I'm actually just going to do this gta to Montreal\u2026 let's see it there. And so I can set my breakpoints on this. I have to, sorry, you have breakpoints and then you add your lines. So I'm just going to delete that off real quick. Your breakpoints are kind of always going to be the same. So you set them as the first thing. So it'd be like one to one and then it'll be two to two, three to three, four to four, five to five et cetera.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 35,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "What does it mean? Breakpoints?",
+      "answer": "It's like this is the breakpoint. So it's like if I'm doing one skid, like it's one to one skids, that's the rate per skid doing two to two. Or it could be, you know, because sometimes it's like, you know, any skid count from three to five. They're going to be 30 bucks a skid. Yeah, any skid from, you know, six to eight is going to be 20. You know what I mean? So then you set up those breakpoints, and I'll just, you know, we'll just call this nine to 10 that's funky, but whatever save those. I'll set up my Lane here. So I have my origin Montreal, sorry, watch it in gta. Yeah, Montreal. And then this is kind of my rate there. So like let's say it's 100. And then for each one like here, it's going to be 30, then it's going to be 25. For those, it's going to be 22. For those, it's going to be 20 for those\u2026 you have like a min cost too, if you want 100.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 36,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Oh, okay. Not the tariff, that cross\u2026 border tariff, right?",
+      "answer": "Yeah. I know it's on everyone's minds. Yeah, everyone calls it, people call it different things. They call it pricing. They call it rating, they call it tariffs, whatever. Yeah, yeah. I know. Like here, I'll give you an example here and you can also set for that tariff on the customer profile. Like I can set, hey, what date does this rate based on? Is it off the delivery? Is it off the pickup? Is it off when it's created? So you can kind of specify that. And then I'll show you like an example order here. It's like these guys, I think these are fresh kind of templated orders. So I'm going to throw this in and say like the pickup, maybe it's on the second, we got five skids here. It's going Mississauga to Montreal. So let's pick up on the second. Let's say it's delivering on the fourth, keep it real simple here.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 37,
+      "category": "USER MANAGEMENT",
+      "frequency": 1,
+      "question": "So as many as with the same logins?",
+      "answer": "No, like you just give them all their own accounts, like it's unlimited users. Oh, it's unlimited users. So each one, one of them have to have their own logins. Yeah, yeah. You give everyone their own login and that's really helpful in case anything like we have a really, like robust change log. So you can see like all the changes Colin makes here, right? Like if you give everyone their own login, then you can see like if, you know, you know, if, Karin over here just, messes up the pickup time.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 38,
+      "category": "INTEGRATION",
+      "frequency": 1,
+      "question": "Totally. Yeah. It's just like when it's desktop, it's harder to like do the update because it's like local, right? It's like the same thing, with your TMS now where it's like on a server, it's kind of the same thing. It just runs locally. So, that is the one kind of annoying thing. But like you can still, you can still connect it and it's like it's a matter of literally on your invoicing board and your receivables, literally a matter of just going invoices and then connect to accounting software and\u2026 then signing it. Okay?",
+      "answer": "So, it's pretty simple. I do have to jump. I've got like a meeting. I mean, I'll reach out to you. We'll connect.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 39,
+      "category": "CUSTOMIZATION",
+      "frequency": 1,
+      "question": "It's just like how you do it. You just go like you can create as many as rates you want, and depending on the areas customers and whatnot, and once you have the rate, it's always there. So if you have a custom walmart, and then if you upload it to like, let's say walmart rates, then it's there. So it's very flexible and it just works very well and there's no complaints. But I just wanted to see, I'm looking at the options of the final minor deliveries. So I like to, you know, explore things now, but send me the package too, and then we'll touch base, okay?",
+      "answer": "Cool. Sounds like a plan. All right. Appreciate the time we'll chat soon. Thank you. Bye bye.",
+      "appeared_in_calls": [
+        "Rose Rocket Demo (Oct 1)"
+      ]
+    },
+    {
+      "rank": 40,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Oh, sweet. Okay. How's everything going?",
+      "answer": "It's been good so far. It's a busy morning, had a busy quarter and month end as well. So, a little bit of breathing room now, but we're good to end off the week on a high note.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 41,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Yep. There you go. How's everything on your end?",
+      "answer": "It's busy, but we're making it happen. Still pushing through our motive transition and just\u2026 trying to stay afloat.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 42,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Awesome. Will it be just your software today or are we waiting on anyone else to join the demo call?",
+      "answer": "It's me and then I've got Gideon here. He's our pneumatics division manager. Hey, there. Nice to meet you. Hey, how's it going? Good. Awesome. We'll get started with things. I know it's been planned for a couple of weeks, so we won't waste any time there. I'll start sharing my screen and then we'll jump into eroad's, rocket and its capabilities around some of the things you guys may be looking for. Sweet.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 43,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "What you guys are looking at here today is rails\u2026 rocket. We are a cloud based system like I mentioned last time on our cloud. So on our call, some call this a web based system. So whether you have your team locally where you're at today or at some point you offer some of your operations to be overseas, you're on a vacation, you can access the platform anywhere across the globe. Two things that are important to roserocket from an infrastructure perspective. One is modules. So the things that I'm highlighting here on the left hand side are what we call modules within the roserocket platform. And each one helps to essentially deliver and lock different functionality out of the software that you may be wanting or needing. At the top. Here, we got more so our operationally focused modules. And then as we work our way down, we have our financially related items. And then at the bottom here are more so database modules. So keeping track of all your drivers assets, if you guys do broker out freight or the partners that you guys are working with, that's what these modules are intended for. Once you open up a module, it'll showcase one, a branch of boards. Now, these boards can be kind of pre built that time of onboarding, you can customize and create your own boards. And essentially, it's a depiction or illustration of the information that you may be looking to capture in a customized fashion. Right? So over here, I have my main orders board and it's showcasing the columns accordingly for how I set this. But you can go ahead and customize for this, customize this for yourself in terms of rearrangements. If I click configure\u2026 columns and I can move these accordingly. So maybe I want to see, you know, that doesn't give me the total weight much sooner. I can toggle that up, toggle it down. And now it'll bring that item into my view much closer than later. So that's one way of customization that we deliver from a user perspective. I'll jump into layer two of that shortly. But we also have what we call saved views at the top. You can kind of consider these tabs similar to your browser. So if I jump into new it'll, quickly showcase and filter all of the shipments that have been created into my system, not yet, you know, dispatched for or planned yet. Once we've gone ahead and dispatched this to a driver, it'll be under our book stage letting you know that's been taken care of, so on and so forth. Once a load is moving from its first stop, it'll be in transit. And once it has been\u2026 delivered stage here. And then some of our customers also like to have visibility around, you know, loads that have been delivered and missing pods. So here's a couple of\u2026 to showcase, you know, you guys can get a quick glance to, you know, follow up with your drivers promptly to get that item on hand to invoice, your customers to improve, you know, cashflow coming in and make sure the invoices are going out in a timely manner\u2026 just to jump back into layer two of customizability. Yeah, go ahead.",
+      "answer": "Oh, no. I just thought that was sweet. Okay, cool. And I forgot to mention if you guys have any questions as I'm going through this, feel free to stop and ask away. We don't have to wait until the end for a Q a or anything like that. Secondly is our tool called object builder. So this is kind of giving you the power of customization within your hands. So if you're looking to create custom fields, custom items for yourself, you can go ahead and do that. So we'll click objects and depending on which area of the software we're looking to create that custom item for, we can jump\u2026 into that particular area. And then momentarily here, it'll give me a chance to click create custom field and I'll be able to go ahead and create items for myself there. Sorry, let me just switch over to my other WI fi. Looks like this one's on the lower end.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 44,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "You still there?",
+      "answer": "Yep. I'm serious. I just switched over to another WI fi. We'll jump back in here. We'll click create custom field\u2026 depending on whatever use case or item. You.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 45,
+      "category": "CUSTOMIZATION",
+      "frequency": 1,
+      "question": "Yeah. So it depends on the use case around that and the operations that they run. So let's just say a scenario where maybe they want to get more granular with let's just say the commodity types that they are moving, they'll create a custom field type around that typically. But I would have to jump into other accounts to have a more granular idea. I wouldn't know offhand the majority of what customers are creating in that field of work. Okay? But for the most part, like 80 percent of the field types will be covered like natively out of the box. This is just kind of giving you kind of like the power and tools for like that, you know, 20 percent or so. That is unique to your business of what you may be looking to capture within the system is what the intended use case is there for that?",
+      "answer": "Yeah. I'm just trying to picture what we could use it for. I'm all about data and I feel like we could utilize this to include additional information that we aren't tracking right now. I just, I'm having a hard time picturing what it would be. But that's just once we start would start using it, we learn more about it. Yeah, no, for sure. And I could also take that back and kind of scope out with either my current book of business and, or my colleagues here. If they have like, you know, popular use cases for, you know, your scope of work that I can get back to you as well with.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 46,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "Do you know who fister is?",
+      "answer": "Yep. Okay. That's they, we've recently found out they're utilizing rose rocket and they're a very similar carrier to us and, we partner with them a good amount.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 47,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Got it. I'll have to double check to see because I know, I think they've been used on rose rocket for a while, but I have to double check if they're on our classic version or if they're using the platform version, which I'm showing you today. Okay. But yeah, nonetheless, we'll go ahead and get continue on with, you know, creating an order. So we'll go ahead and click create order on the right hand side in terms of, the orders that you receive today or shipments. Is it typically information over the phone? Is it contracted freight? Are your customers emailing you in? How do you typically receive load information?",
+      "answer": "We don't have too much contracted freight. Most of the freight is a handshake agreement and\u2026 sent through email, that's\u2026 and it's yeah, no contract just tendered over to us after we send ratecons over to the customer. Got it. So we have a couple ways to automate, the data entry piece around that. So one of those being data bot. So as you're receiving those ratecons load tenders, load sheets or even general emails that may look like this. So, you know, when I was a broker myself, I used to receive kind of like scrappy emails that look like this. So like here's where it's picking up here's, where it's delivering as long as it kind of has like that, you know, key information around load details. It'll be good to go. So whether it's something scrappy like that or a formal tender either or works we'll click upload that'll. Now start syncing up the appropriate information into the order here and you'll see that get it placed on the right hand side. Momentarily. A lot of the other companies that are kind of exploring us and our customer that we have mentioned that they used to spend about two to three minutes on a single order entry. For those coming off another system, we know with databot right now, it looks like we're at about 30 seconds. So this is one of the tools that we had for about, you know, many years. Now, the other tool that we recently launched is called Ted. So with that, it's utilizing, you know, the more enhanced power of AI to automatically sync up with your email account. And as those emails are calling coming in, it'll create the order for you. So it eliminates the step of you even having to do the drag and drop or browsing for that item and automatically creating it with your order. But as you can see here it has been populated. It gives you a chance to cross reference between the two. So your number CC, triple eight, CC, triple eight customers cart connection that's right here's. Where it's picking up here's, where it's delivering March 20 first, yep, 20 fifth that's the time. So commodities materials is picking up weight. So all that is noted here as per the description of the email and I can mark this as verified to let the team know that, hey, this is entered into, my account. The things that you're seeing here are widgets, we call it in the middle. Typically, this is not one that comes out of the box. I was speaking with another customer that wanted me to create a custom field called tonnage to incorporate a part of the, as those widget fields. So we had done this for him and we can create a custom widget as well alongside the custom field to incorporate as part of like, your sequence of an order. Well, that's an option that you have there as well. But we'll kind of move along the steps here automatically once again pulls in the where it's picking up where it's delivering. And then from here, essentially the orders in our system, you would either go about or maybe create another order, go find a driver to dispatch this out to. We'll jump into our new view here and we'll be able to see all our orders that we've currently created for that are pending dispatch. Let's just say I've found a driver. I'll jump into their order. We'll click assign driver. We'll choose the driver that we're sending this out to. So maybe it's this individual here. Assign driver. If\u2026 we know the truck and trail that will be assigned into this particular shipment, we can go ahead and select that. As well as you can see, a couple of these items are grayed out. And what that means is this unit is already associated with another trip or manifest as we call it overlapping in time. So you won't be able to double book a piece of equipment if you have that enabled in your account. But otherwise we'll select the truck and trailer that are free for this run. And then we have a mobile app that's integrated natively with our platform. So you don't have to send low details to text message or whatsapp as a lot of companies are doing today, you can do it directly from here. So akp here's your next load or\u2026 you know, whatever message you want to leave for your driver, you can click send. And as soon as that takes place, this order will be now marked into dispatch status. I'm just going to jump into my mobile phone to showcase what happens\u2026 on the driver's side as part of that dispatching.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 48,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Awesome. So they'll receive a notification as they would for any other app. So, you know, they would get a ping there as well as you can see at the top. Alternatively if they jump into the actual mobile app, this is what they would see on their side. There's three angles or three sides to this mobile app. We have active trips. So these are trips that the driver is, you know, on has picked up and on the move with assigned or trips that, are coming up for, the driver here soon for us. And then history is ones that they've completed in the past that they can go back and reference as well as needed\u2026 here's. The one that we just sent over to our driver today. So once he or she arrives at that first pickup location, they'll jump into that pickup task and, you know, look at all the relevant details you've entered for them. So obviously the more information you're entering for your drivers on there's on your side, the easier it is for them to access that without having to call or, you know, bug, you, we'll click arrive at task that'll log the date and time that it took place. It'll update the status to arrived. Once your driver has been fully loaded, they'll go ahead and click upload proof of completion. Two options that they have here. They can either get a scan, a signature or, you know, go into their gallery. If they took a picture there. For the most part, most of our customers typically get a scan of the documents. We'll click scan it'll, open up the camera app and then do an auto cropping of, the document. If there's multiple pages that need to be scanned in, you can click, you know, the plus sign on the right hand side and scan in multiple pages. Otherwise we'll click next. If there's pictures of, you know, the unit, the freight that need to be captured, you can go ahead and do so accordingly as well. Otherwise we'll click upload and complete that'll mark that this trip as complete. We jump back into tile. It'll have that location as completed. I'm just going to jump back into my computer screen to showcase what happens in office as those items are, you know, happening on the driver's side. So on your side, this will automatically move into in transit status. And then the documents that your driver may be uploading can be noted here in the documents tab. So proof of pickup, it'll be a PDF that gets scanned in. So here's a document that, you know, we had scanned in while using the mobile app\u2026 and then just to jump back into the mobile app to complete the loop around that trip?",
+      "answer": "You guys have geofencing. So with motive and our GPS right now, when a driver arrives in a geofence, it automatically arrives them, do you know if that's an integration that you guys have or no? So. We wouldn't have the integration piece for geofencing with motive. We have our own native, you know, geofence with the mobile app today as part of kind of that feature request, but it wouldn't integrate with motive today. No. Okay.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 49,
+      "category": "MOBILE APP",
+      "frequency": 1,
+      "question": "Yeah, we can set up in the system so that as long as the driver is once again marking themselves as arrived and completed, we can run a formula like the custom field. As an example for the object builder, we can create a custom field where it would do a subtraction between departure, completed time and arrival time to showcase the time there. Okay?",
+      "answer": "And then back in office, this will, sorry, that order would have already been marked as delivered. So if I come back, three three two will be under delivered status. In terms of what the document would be for that proof delivery. It'll be an auto generated Bol. And it'll have that digital signature that took place and date and time as well. All our documents can be customized at time of onboarding. So, if you want to, you know, customize your invoice, document, your Bol, if you are going to be tendering freight out to third party carriers, you can generate or customize the rate confirmation sheet as well. That primarily takes care of the flow operationally of creating an order, dispatching it to a driver, you know, having the statuses update any further questions there. So.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    },
+    {
+      "rank": 50,
+      "category": "GENERAL",
+      "frequency": 1,
+      "question": "And are they all running different pnls? And acting as different entities have different MCS?",
+      "answer": "They're I believe they're well, the asset side is one pnl, I guess that's profit and loss. If I'm if I'm not wrong, and then the brokerage side would have another. They're they're two different MC numbers got. It. So on the asset side, that may be a good use case of object builder that you're asking. So we can, you know, create a field called division and have it. I'll select and we'll call this, you know, east west\u2026 division. North I.",
+      "appeared_in_calls": [
+        "Adam & Karandeep | Rose Rocket Demo (Oct 2)"
+      ]
+    }
+  ]
+}
