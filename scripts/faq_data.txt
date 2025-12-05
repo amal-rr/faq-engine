@@ -1,0 +1,2261 @@
+================================================================================
+                    ROSE ROCKET - CONSOLIDATED PROSPECT FAQ
+                      Sales Enablement Edition - Q4 2025
+================================================================================
+
+Last Updated: December 1, 2025
+Source: 456 prospect questions from 8 Gong call transcripts (Oct-Nov 2025)
+Analyzed By: Claude AI FAQ Engine
+Total Calls Analyzed: 8 demos by Karandeep Singh
+
+================================================================================
+                              TABLE OF CONTENTS
+================================================================================
+
+PRICING & CONTRACTS (7 FAQs)
+INTEGRATIONS (7 FAQs)
+DISPATCH & OPERATIONS (9 FAQs)
+MOBILE APP & POD (5 FAQs)
+CUSTOMIZATION (5 FAQs)
+USER ACCESS & PERMISSIONS (5 FAQs)
+ONBOARDING & SETUP (4 FAQs)
+REPORTING & VISIBILITY (4 FAQs)
+DATA TRACKING & AUDIT (3 FAQs)
+CUSTOMER/PARTNER SHARING (3 FAQs)
+
+================================================================================
+                           PRICING & CONTRACTS
+================================================================================
+
+FAQ Question:
+ What is a "record" in RoseRocket?
+
+Short Answer (30 Seconds):
+ A record is any order, invoice, quote, or manifest you create. One-time
+ records like customer profiles are counted once. Each record costs
+ approximately $0.04 USD.
+
+Detailed Talk Track:
+ RoseRocket uses a record-based pricing model. There are two types: one-time
+ records (customer profiles, carrier profiles, driver profiles, assets) that
+ are counted once when created, and recurring records (orders, invoices,
+ quotes, manifests) that count each time you create them. Importantly, stops
+ within an order, documents attached to orders, and status updates don't count
+ as records. For example, if you create 1,000 orders and 1,000 invoices per
+ month, that's 2,000 recurring records. At $0.04 per record, you can calculate
+ your monthly cost based on your volume. This makes pricing predictable and
+ scales with your business.
+
+Category:
+ Pricing
+
+Tags:
+ pricing, records, cost, billing, subscription, volume-based
+
+Volume (from Gong):
+ Asked in 6 out of 8 calls (75% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Pricing calculator, Records definition guide, Competitive pricing comparison
+
+External Links:
+ Help Center: "Understanding RoseRocket Pricing Model"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ What are your contract terms and lengths?
+
+Short Answer (30 Seconds):
+ You start with a 3-month activation period on month-to-month billing, then
+ move to a 12-month contract. We offer discounts for quarterly or annual
+ upfront payment.
+
+Detailed Talk Track:
+ RoseRocket's contract structure is designed to ensure successful
+ implementation. You begin with a 3-month activation period where you're billed
+ month-to-month with no long-term commitment. This gives both teams time to
+ ensure the platform fits your needs. After activation, you move to a standard
+ 12-month contract. Payment options include month-to-month (highest rate, most
+ flexibility), quarterly (small discount, pay every 3 months), or annual (25%
+ discount, pay upfront). The contract auto-renews annually unless you cancel
+ with 30-day notice. This structure protects both parties while ensuring
+ you're committed to success.
+
+Category:
+ Pricing
+
+Tags:
+ contract, terms, commitment, payment options, annual, monthly
+
+Volume (from Gong):
+ Asked in 6 out of 8 calls (75% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Contract template, Payment options guide, Renewal process doc
+
+External Links:
+ (Internal-only, no public link)
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Are we charged during the onboarding period?
+
+Short Answer (30 Seconds):
+ Yes, billing starts when you get system access, but you're on month-to-month
+ during the 3-month activation period with no long-term commitment until after
+ onboarding completes.
+
+Detailed Talk Track:
+ Billing begins as soon as you receive access to RoseRocket because we want
+ both teams fully committed to a successful implementation. However, during the
+ 3-month activation period, you're on flexible month-to-month billing with no
+ long-term contract. This ensures mutual commitment without locking you in
+ before you've fully experienced the platform. Record usage during onboarding
+ is typically minimal since you're primarily in training and configuration
+ mode. Once activation completes and you're fully live, that's when the
+ 12-month commitment begins. This model has helped us achieve higher success
+ rates because everyone is invested from day one.
+
+Category:
+ Pricing
+
+Tags:
+ onboarding, billing, activation, charges, commitment
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Onboarding billing guide, Activation timeline
+
+External Links:
+ Help Center: "Billing During Onboarding"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can we pay in Canadian dollars?
+
+Short Answer (30 Seconds):
+ Yes, RoseRocket offers Canadian dollar pricing with exchange rates applied at
+ current market rates.
+
+Detailed Talk Track:
+ Absolutely. We understand many of our Canadian customers prefer to budget and
+ pay in CAD. We apply current market exchange rates to convert USD pricing to
+ Canadian dollars. For example, based on recent rates, $2,033 USD monthly
+ converts to approximately $2,846 CAD, and an $18,000 USD annual plan converts
+ to roughly $25,616 CAD. Exchange rates are locked in at the time of contract
+ signing, so you have predictability for your budget planning. This makes it
+ easier for your finance team to manage subscriptions in your home currency.
+
+Category:
+ Pricing
+
+Tags:
+ canadian, pricing, currency, cad, exchange rate
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Canadian pricing calculator, Currency conversion policy
+
+External Links:
+ (Internal-only, no public link)
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ What happens if we don't use all our allocated records?
+
+Short Answer (30 Seconds):
+ Unused records automatically roll over to the next year with no expiration,
+ so you never lose what you've paid for.
+
+Detailed Talk Track:
+ This is one of the customer-friendly features of our pricing model. If you
+ purchase 12,000 records annually but only use 8,000, the remaining 4,000
+ automatically rolls into year two. You won't be charged again until you've
+ used those rolled-over records. There's no expiration on unused records, so
+ you're never penalized for overestimating your volume or for having a slower
+ period. This gives you peace of mind that you're only paying for what you
+ actually use over time, even if usage fluctuates. Most customers find their
+ usage stabilizes after the first year, making planning easier.
+
+Category:
+ Pricing
+
+Tags:
+ records, rollover, unused, allocation, volume
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Record tracking guide, Usage analytics dashboard
+
+External Links:
+ Help Center: "Record Rollover Policy"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Is pricing all-inclusive or are there add-ons?
+
+Short Answer (30 Seconds):
+ The base price includes all core TMS features, mobile app, QuickBooks
+ integration, standard integrations, and support. Add-ons are only for
+ specialized integrations or custom development.
+
+Detailed Talk Track:
+ Our pricing is designed to be transparent and all-inclusive for most
+ customers. The base subscription includes all core TMS functionality,
+ unlimited driver users on the mobile app, QuickBooks integration, standard
+ ELD integrations like Motive and Samsara, customer support, regular software
+ updates, data storage, and comprehensive training materials. The only
+ potential add-ons would be custom integrations with non-standard systems,
+ advanced API usage for very high-volume operations, or white-label
+ customization for specialized use cases. For 95% of customers, the quoted
+ price is everything you need. We believe in clarity upfront, so there are no
+ hidden fees or surprise charges.
+
+Category:
+ Pricing
+
+Tags:
+ pricing, inclusive, add-ons, fees, features, subscription
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Feature matrix, Add-on services catalog
+
+External Links:
+ Help Center: "What's Included in My Subscription"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ If I create an order and then cancel it, do I still pay for that record?
+
+Short Answer (30 Seconds):
+ Yes, once an order is created it counts as a record even if cancelled. Use
+ quotes for tentative loads to avoid this.
+
+Detailed Talk Track:
+ Once an order is created in the system, it does count toward your record
+ usage, even if you later cancel or delete it. This is because the system has
+ processed and stored that data. However, we have a workaround: use the Quotes
+ module for tentative or unconfirmed loads. Quotes also count as records, but
+ they're designed for this exact scenario. You can create a quote, send it to
+ the customer, and only convert it to an order when it's confirmed. This gives
+ you flexibility without creating unnecessary order records. Many customers
+ use quotes as their standard workflow for all new opportunities, only
+ converting to orders when booked.
+
+Category:
+ Pricing
+
+Tags:
+ records, cancelled orders, quotes, billing, workflow
+
+Volume (from Gong):
+ Asked in 2 out of 8 calls (25% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Quotes vs Orders workflow guide
+
+External Links:
+ Help Center: "Using Quotes to Manage Tentative Loads"
+
+================================================================================
+                              INTEGRATIONS
+================================================================================
+
+FAQ Question:
+ Does RoseRocket integrate with QuickBooks?
+
+Short Answer (30 Seconds):
+ Yes, RoseRocket has native QuickBooks integration with real-time
+ bi-directional sync. Invoices, payments, and customer data sync automatically
+ between systems.
+
+Detailed Talk Track:
+ RoseRocket integrates bi-directionally with both QuickBooks Desktop and
+ QuickBooks Online. When your team generates an invoice in RoseRocket, it
+ automatically pushes to QuickBooks with the correct customer mapping, line
+ items, reference numbers, and tax calculations. When payments are recorded in
+ QuickBooks, they sync back to RoseRocket and update customer credit limits in
+ real-time. This eliminates double entry and keeps your operations and
+ accounting teams perfectly aligned. The integration also syncs vendor bills
+ for carrier payments and maintains chart of accounts mapping. Setup is
+ completed during onboarding by our implementation team and typically takes
+ under 30 minutes. Changes reflect within minutes, giving you near real-time
+ financial visibility.
+
+Category:
+ Integrations
+
+Tags:
+ quickbooks, accounting, invoicing, sync, payments, finance, integration
+
+Volume (from Gong):
+ Asked in 7 out of 8 calls (88% frequency - CRITICAL)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ QuickBooks setup guide, Billing workflow documentation, Accounting enablement
+ deck
+
+External Links:
+ Help Center: "QuickBooks Integration Setup"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Does it constantly communicate with QuickBooks?
+
+Short Answer (30 Seconds):
+ Yes, it's near real-time synchronization. Changes in either system reflect in
+ the other within minutes.
+
+Detailed Talk Track:
+ The QuickBooks integration maintains constant communication between the two
+ systems. When you mark an invoice as paid in QuickBooks, RoseRocket updates
+ immediately, refreshing the customer's available credit. When you create an
+ invoice in RoseRocket, it appears in QuickBooks within minutes. This real-time
+ sync means your dispatch team always sees current credit availability when
+ creating orders, and your accounting team never has to manually update
+ payment records. The system handles all the background synchronization
+ automatically, eliminating the lag time and errors that come with manual data
+ entry or batch uploads. This is especially valuable for high-volume
+ operations where timing matters.
+
+Category:
+ Integrations
+
+Tags:
+ quickbooks, real-time, sync, communication, accounting
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Sync frequency documentation, Troubleshooting sync issues
+
+External Links:
+ Help Center: "How QuickBooks Sync Works"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Do you integrate with Great Plains or other accounting software?
+
+Short Answer (30 Seconds):
+ Currently we integrate with QuickBooks, Sage 50, and Xero. Great Plains is on
+ our 2026 roadmap. For unsupported systems, we offer CSV export/import.
+
+Detailed Talk Track:
+ Our native accounting integrations currently include QuickBooks Desktop and
+ Online, Sage 50, and Xero. These cover the majority of small to mid-sized
+ transportation companies. For Great Plains (Dynamics GP), SAP, and NetSuite,
+ we don't have native integrations yet, but Great Plains is actively on our
+ product roadmap for 2026 given customer demand. In the meantime, RoseRocket
+ offers robust CSV export capabilities for invoices, payments, and vendor
+ bills that can be imported into any accounting system. Many customers use
+ this workflow successfully, though it does require some manual steps. We can
+ also discuss custom integration development for enterprise customers with
+ specific requirements. I'd be happy to connect you with our product team to
+ discuss timeline and priority for Great Plains.
+
+Category:
+ Integrations
+
+Tags:
+ accounting, great plains, sage, xero, dynamics, integration, csv export
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Accounting integrations matrix, CSV export guide, 2026 product roadmap
+
+External Links:
+ Help Center: "Supported Accounting Systems"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Do you integrate with ELD systems like Motive or Samsara?
+
+Short Answer (30 Seconds):
+ Yes, RoseRocket integrates with Motive, Samsara, Geotab, and Platform Science
+ for GPS tracking, safety events, driver scorecards, and HOS visibility.
+
+Detailed Talk Track:
+ RoseRocket has native integrations with the major ELD providers including
+ Motive (formerly KeepTruckin), Samsara, Geotab, and Platform Science. These
+ integrations enhance visibility by syncing GPS location pings, driver HOS
+ data, safety events like hard braking and speeding, and driver scorecards
+ directly into RoseRocket. This allows your dispatch team to see real-time
+ truck locations, driver availability, and accurate ETAs without leaving the
+ TMS. Your shippers also get reliable tracking through the customer portal.
+ The integration setup uses API tokens and typically completes in under an
+ hour during onboarding. One note: while we do have geofencing capabilities,
+ automatic arrival when entering a geofence is not currently available -
+ drivers must manually click arrive. That feature is on our roadmap for 2026.
+
+Category:
+ Integrations
+
+Tags:
+ eld, motive, samsara, geotab, gps, tracking, hos, safety, integration
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ ELD integration guide, Visibility enablement documentation, Driver app setup
+
+External Links:
+ Help Center: "ELD System Integrations"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can I import orders from Excel or CSV files?
+
+Short Answer (30 Seconds):
+ Yes, you can bulk upload via CSV, use DataBot to drag-and-drop emails/PDFs,
+ or use TED to auto-import from your email account.
+
+Detailed Talk Track:
+ RoseRocket offers three methods for importing order data. First, CSV bulk
+ upload lets you upload spreadsheets with multiple orders - our AI auto-maps
+ columns to RoseRocket fields, you review and adjust, then finalize. Second,
+ DataBot is our AI email and PDF parser - just drag and drop the email or rate
+ confirmation, and it extracts order details automatically in about 30 seconds
+ versus 2-3 minutes for manual entry. Third, TED is our newest feature - it
+ connects directly to your email account and automatically creates orders from
+ incoming customer emails without any manual action. Most customers use a
+ combination: CSV for large batch uploads, DataBot for daily order entry, and
+ TED for regular customer emails. This flexibility means you can work the way
+ that fits your operations best.
+
+Category:
+ Integrations
+
+Tags:
+ excel, csv, import, databot, ted, automation, order entry, email
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ DataBot setup guide, TED configuration documentation, CSV template
+
+External Links:
+ Help Center: "Importing Orders into RoseRocket"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Does the mobile app have geofencing to auto-arrive drivers?
+
+Short Answer (30 Seconds):
+ RoseRocket has geofencing that notifies drivers when they enter a location,
+ but they must manually click arrive. Auto-arrival is on our 2026 roadmap.
+
+Detailed Talk Track:
+ We do have native geofencing built into the mobile app, but it works
+ differently than Motive's auto-arrival feature. When a driver enters the
+ geofence around a pickup or delivery location, they receive a push
+ notification reminding them to update their status. However, they still need
+ to manually click the "Arrive at Task" button. We designed it this way
+ initially to ensure accuracy - drivers confirm they're at the right location
+ before the system updates. That said, we hear this feedback frequently, and
+ automatic arrival upon geofence entry is actively on our product roadmap for
+ 2026. Many of our customers coming from Motive specifically ask about this, so
+ it's a priority. In the meantime, the notification system works well and
+ drivers typically adapt quickly to the one-click confirmation.
+
+Category:
+ Integrations
+
+Tags:
+ geofencing, auto-arrival, mobile app, motive, gps, automation, driver app
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Mobile app features, Geofencing setup, 2026 roadmap
+
+External Links:
+ Help Center: "Mobile App Geofencing"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can data be transferred from our current TMS to RoseRocket?
+
+Short Answer (30 Seconds):
+ Yes, migration support is included in onboarding. We help you export from
+ your old system, map fields, import into RoseRocket, and validate the data.
+
+Detailed Talk Track:
+ Data migration is a standard part of our onboarding process and included in
+ your subscription. Our implementation team works with you to export data from
+ your current system - whether that's Avaal, TMW, McLeod, or a custom
+ homegrown platform - typically in CSV format. We then help map your existing
+ fields to RoseRocket's data structure, import the data, and run validation
+ checks to ensure everything transferred correctly. We commonly migrate
+ customer databases, carrier/partner lists, driver profiles, asset information,
+ and historical order data if needed. The process is collaborative - you
+ maintain control over what gets migrated and when. Most migrations complete
+ within the first two weeks of onboarding. We've successfully migrated data
+ from dozens of different systems, so we have proven processes and templates.
+
+Category:
+ Integrations
+
+Tags:
+ data migration, tms migration, avaal, tmw, mcleod, import, onboarding
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Migration checklist, Data mapping guide, Supported TMS systems
+
+External Links:
+ Help Center: "Migrating from Another TMS"
+
+================================================================================
+                          DISPATCH & OPERATIONS
+================================================================================
+
+FAQ Question:
+ Are there other views for dispatching besides the table view?
+
+Short Answer (30 Seconds):
+ Yes, RoseRocket offers both Table/List View and Timeline/Calendar View. Most
+ customers use Timeline View for active dispatch and Table View for order
+ management.
+
+Detailed Talk Track:
+ RoseRocket provides two main dispatch views to match different workflow
+ preferences. The Table/List View is the traditional row-by-row order listing
+ with sortable and filterable columns - great for detailed order management
+ and searching. The Timeline/Calendar View is our visual scheduling tool that
+ displays orders on a timeline by date, color-coded by status, with
+ drag-and-drop capabilities. You can group by driver, status, or date to see
+ exactly what you need. Most of our customers use the Timeline View for active
+ dispatch planning because it replicates the visual boards they're currently
+ using with spreadsheets, then switch to Table View when they need to search
+ or filter orders. Both views are fully customizable, and users can save their
+ preferred configurations. This flexibility means dispatchers work the way
+ that makes sense for them.
+
+Category:
+ Dispatch
+
+Tags:
+ dispatch, calendar view, timeline view, visual dispatch, scheduling
+
+Volume (from Gong):
+ Asked in 6 out of 8 calls (75% frequency - CRITICAL)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Timeline view demo video, Dispatch board configuration guide
+
+External Links:
+ Help Center: "Dispatch Views Overview"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can you show me what dispatch looks like with drivers listed?
+
+Short Answer (30 Seconds):
+ In Timeline View, group by "Driver" and each driver gets their own row
+ showing all assigned loads on their timeline. Perfect for visual dispatch
+ planning.
+
+Detailed Talk Track:
+ The Timeline View with driver grouping is exactly what you're looking for.
+ When you group by "Driver," the system creates a row for each driver showing
+ all their assigned loads displayed chronologically on a timeline. You can
+ instantly see driver availability, load duration, weekly mileage, and revenue
+ per driver. It's perfect for the visual dispatch boards many companies
+ currently maintain with spreadsheets or whiteboards. You can drag and drop
+ orders between drivers, see conflicts immediately when loads overlap, and
+ quickly identify which drivers have capacity for additional loads. Colors
+ indicate status - new, booked, in transit, delivered - so you get real-time
+ visibility into your entire fleet at a glance. This view can be filtered by
+ date range, division, or any custom field you create.
+
+Category:
+ Dispatch
+
+Tags:
+ dispatch, driver view, timeline, visual board, driver availability
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Driver grouping tutorial, Visual dispatch best practices
+
+External Links:
+ Help Center: "Grouping by Driver in Timeline View"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ How do I combine multiple orders into one trip for a driver?
+
+Short Answer (30 Seconds):
+ Use the Manifests module to create a multi-stop trip by selecting multiple
+ orders, or link orders by assigning the same driver - the system recognizes
+ them as one trip.
+
+Detailed Talk Track:
+ RoseRocket offers two methods for multi-order trips. Method one is creating a
+ Manifest: go to the Manifests module, click Create Manifest, select the
+ orders you want to combine, assign the driver and equipment, and the driver
+ sees it as a single multi-stop trip in their mobile app with all stops in
+ sequence. Method two is simpler for quick assignments: create your first
+ order and assign a driver, then create your second order and assign the same
+ driver - the system automatically recognizes this as a multi-load trip and
+ sequences the stops appropriately. The driver app displays all pickups and
+ deliveries in the optimal order. This flexibility works for both planned
+ routes and ad-hoc consolidation. You can also split or modify manifests after
+ creation if plans change.
+
+Category:
+ Dispatch
+
+Tags:
+ manifests, multi-stop, trip planning, consolidation, driver app
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Manifest creation guide, Multi-stop workflow documentation
+
+External Links:
+ Help Center: "Creating Multi-Stop Trips"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Do you have features to track detention time?
+
+Short Answer (30 Seconds):
+ Yes, using custom formula fields. Set up a formula that calculates departure
+ time minus arrival time to automatically track detention for billing.
+
+Detailed Talk Track:
+ Detention tracking is built into RoseRocket using our custom fields
+ functionality. During onboarding, our implementation team sets up a custom
+ formula field that automatically calculates detention time by subtracting the
+ arrival timestamp from the departure timestamp. You can set thresholds for
+ when detention charges should apply - for example, anything over 2 hours. The
+ system calculates this automatically as drivers update their arrival and
+ departure times in the mobile app. You can then create reports showing total
+ detention hours per customer, detention charges owed, and which facilities
+ consistently have the longest detention. This data can feed directly into
+ your invoicing and also helps you identify problem facilities to address with
+ customers. The setup takes about 15 minutes during onboarding and runs
+ automatically from that point forward.
+
+Category:
+ Dispatch
+
+Tags:
+ detention, tracking, billing, custom fields, formulas, accessorials
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Detention tracking setup guide, Custom fields documentation, Accessorial
+ billing
+
+External Links:
+ Help Center: "Tracking Detention Time"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ How do I split a load between two drivers?
+
+Short Answer (30 Seconds):
+ Use the Split Leg feature: open the order, click Split Leg, enter the
+ transfer point, and assign each leg to a different driver.
+
+Detailed Talk Track:
+ The Split Leg feature is designed exactly for this scenario. Open the order,
+ click Split Leg, and enter the middle transfer location where the handoff
+ will happen. RoseRocket automatically creates two legs: Leg 1 from pickup to
+ transfer point, and Leg 2 from transfer point to delivery. You then assign
+ Driver A to Leg 1 and Driver B to Leg 2. Each driver only sees their portion
+ of the trip in the mobile app. This is perfect for driver breakdowns, relay
+ operations, or drop-and-hook scenarios. The system maintains the order
+ integrity, so all documentation, tracking, and invoicing remain unified even
+ though multiple drivers are involved. You can split legs at any time, even
+ after a trip has started, giving you operational flexibility when things
+ don't go according to plan.
+
+Category:
+ Dispatch
+
+Tags:
+ split loads, relay, multi-driver, transfer, legs, operations
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Split leg tutorial, Relay operations guide
+
+External Links:
+ Help Center: "Splitting Loads Between Drivers"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can we separate orders by division (North, South, East, West)?
+
+Short Answer (30 Seconds):
+ Yes, create a custom "Division" field with your options, then create separate
+ boards filtered by each division. Users only see their division's loads.
+
+Detailed Talk Track:
+ Division separation is straightforward with RoseRocket's customization tools.
+ First, use the Object Builder to create a custom field called "Division" with
+ dropdown options for North, South, East, West, or whatever divisions you
+ have. When creating orders, users select the appropriate division. Then
+ create separate boards for each division with filters - the North board only
+ shows orders where Division equals North. You can configure user permissions
+ so North division users only see the North board and can't access other
+ divisions' data. This is perfect for companies with multiple business units,
+ regional operations, or different service lines. Each division essentially
+ operates in their own workspace while you maintain centralized oversight and
+ reporting across all divisions. Setup takes about 30 minutes during
+ onboarding.
+
+Category:
+ Dispatch
+
+Tags:
+ divisions, multi-location, custom fields, boards, filtering, regions
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Division setup guide, Custom fields documentation, Multi-entity configuration
+
+External Links:
+ Help Center: "Managing Multiple Divisions"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ How easy is it to move a load from asset side to brokerage?
+
+Short Answer (30 Seconds):
+ If same company entity: very easy, just change driver assignment to carrier.
+ If separate companies: requires manual recreation in the other account.
+
+Detailed Talk Track:
+ This depends on how your asset and brokerage operations are structured. If
+ you're running both under the same company entity with the same MC number,
+ it's very easy - you simply change the assignment from a driver to a carrier
+ partner within the same order. Everything stays in one RoseRocket instance.
+ However, if your asset and brokerage are separate legal entities with
+ different MC numbers, you'll need two separate RoseRocket subscriptions, and
+ moving a load requires manually recreating the order in the other account.
+ There's a workaround where you can copy the order details and paste them into
+ a new order to speed this up. Our recommendation: if you frequently move
+ loads between asset and brokerage, structure them as divisions within a
+ single company entity rather than separate subscriptions. This gives you full
+ flexibility to reassign loads with one click.
+
+Category:
+ Dispatch
+
+Tags:
+ asset, brokerage, carrier assignment, multi-entity, workflow
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Asset vs brokerage setup guide, Multi-company configuration
+
+External Links:
+ Help Center: "Managing Asset and Brokerage Operations"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can I track loaded vs empty trailers?
+
+Short Answer (30 Seconds):
+ Yes, RoseRocket's asset management shows which trailers are assigned to
+ active loads versus available, with optional GPS location tracking.
+
+Detailed Talk Track:
+ RoseRocket includes asset management features specifically for tracking
+ equipment utilization. The system automatically tracks which trailers are
+ assigned to active trips (loaded) versus unassigned and available (empty). If
+ you have GPS tracking on your trailers through an integrated system, you can
+ also see real-time location. You can create a custom dashboard widget showing
+ total trailers, loaded count, empty count, and out-of-service equipment. This
+ gives you instant visibility into asset utilization and helps with equipment
+ planning. You can also set alerts for trailers that have been sitting empty
+ at customer locations beyond a certain threshold. The asset module integrates
+ with your dispatch workflow, so trailers automatically update status as
+ they're assigned to and removed from loads.
+
+Category:
+ Dispatch
+
+Tags:
+ trailers, assets, equipment, tracking, utilization, dashboard
+
+Volume (from Gong):
+ Asked in 2 out of 8 calls (25% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Asset management guide, Equipment tracking documentation
+
+External Links:
+ Help Center: "Managing Assets and Equipment"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can I see how many miles a driver is running per week?
+
+Short Answer (30 Seconds):
+ Yes, view in driver profiles with timeframe filters, add a mileage column to
+ Manifests board grouped by driver, or use driver performance reports.
+
+Detailed Talk Track:
+ Driver mileage tracking is available in multiple places within RoseRocket.
+ The driver profile shows total miles with filters for any timeframe - you can
+ view current week, month, quarter, or custom date ranges. In the Manifests
+ board, add a "Total Miles" column and group by driver to see weekly mileage
+ for all drivers at once. There's also a dedicated driver performance report
+ that breaks down miles, revenue, and trip counts by driver over any period.
+ If you use the Timeline View grouped by driver, you can visually see their
+ weekly schedule and associated mileage. This data is useful for driver pay
+ calculations, utilization analysis, and balancing workload across your fleet.
+ The mileage calculations are automatic based on the routes in each order, or
+ you can manually override if needed.
+
+Category:
+ Dispatch
+
+Tags:
+ driver, mileage, tracking, reports, performance, analytics
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Driver reporting guide, Mileage tracking documentation
+
+External Links:
+ Help Center: "Tracking Driver Mileage"
+
+================================================================================
+                            MOBILE APP & POD
+================================================================================
+
+FAQ Question:
+ Are drivers using a mobile app for capturing POD?
+
+Short Answer (30 Seconds):
+ Yes, RoseRocket has a native iOS and Android mobile app. Drivers can scan
+ documents, capture digital signatures, take photos, or upload from their
+ gallery.
+
+Detailed Talk Track:
+ The RoseRocket mobile app is purpose-built for drivers and available on both
+ iOS and Android. For POD capture, drivers have four options: scan documents
+ using the camera which auto-crops and creates a PDF, capture digital
+ signatures directly on screen, take photos of freight or damage, or upload
+ images from their gallery if they took photos earlier. The scan feature works
+ great for multi-page BOLs - drivers can scan multiple pages in sequence and
+ it compiles them into one PDF. All captured PODs automatically sync to the
+ order in real-time and appear in the documents tab where your office team can
+ access them immediately. This eliminates the old workflow of drivers texting
+ photos or dropping off paperwork. The app is intuitive enough that most
+ drivers are comfortable using it within a day or two of training.
+
+Category:
+ Mobile App
+
+Tags:
+ mobile app, pod, proof of delivery, scanning, signatures, driver app
+
+Volume (from Gong):
+ Asked in 6 out of 8 calls (75% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Mobile app setup guide, Driver training materials, POD capture tutorial
+
+External Links:
+ Help Center: "Mobile App POD Features"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can drivers use their own phones or do we need to provide tablets?
+
+Short Answer (30 Seconds):
+ Drivers can use their personal phones. The app works on iPhone (iOS 12+) and
+ Android (8+). Tablets work too if you prefer larger screens for signatures.
+
+Detailed Talk Track:
+ One of the benefits of RoseRocket is that drivers can use their personal
+ smartphones - no need to purchase devices. The app is compatible with iPhone
+ running iOS 12 or newer and Android phones running version 8 or newer, which
+ covers virtually all phones from the last 5-6 years. If you prefer larger
+ screens for signature capture, tablets work great too, both iOS and Android.
+ The app is very lightweight and uses minimal data - typically around 50MB per
+ month for regular usage. Most companies have their drivers use personal
+ phones, which eliminates device management headaches and reduces costs.
+ Drivers generally prefer this too since they're already comfortable with their
+ own devices. There's no limit on the number of driver users, so you can have
+ as many drivers as needed without additional fees.
+
+Category:
+ Mobile App
+
+Tags:
+ mobile app, devices, phones, tablets, byod, driver devices
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Mobile device requirements, BYOD policy guide
+
+External Links:
+ Help Center: "Mobile App Device Requirements"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ When a driver arrives in a geofence, does it automatically arrive them?
+
+Short Answer (30 Seconds):
+ No, not automatically currently. Drivers get a notification when entering the
+ geofence but must manually click arrive. Auto-arrival is on our 2026 roadmap.
+
+Detailed Talk Track:
+ This is a common question, especially from companies using Motive. RoseRocket
+ does have geofencing built into the mobile app, but it works differently than
+ auto-arrival. When a driver enters the geofenced area around a pickup or
+ delivery location, they receive a push notification reminding them to update
+ their status. They then manually click the "Arrive at Task" button to
+ confirm. We designed it this way initially to ensure accuracy - drivers
+ confirm they're at the correct location before the system updates customer-
+ facing tracking. However, we hear this feedback frequently, and automatic
+ arrival when entering a geofence is actively prioritized on our 2026 product
+ roadmap. In the meantime, the notification system works well and most drivers
+ adapt quickly to the one-click confirmation. It's worth noting that the
+ majority of TMS systems don't have auto-arrival yet - Motive is somewhat
+ unique in this feature.
+
+Category:
+ Mobile App
+
+Tags:
+ geofencing, auto-arrival, motive, mobile app, notifications, automation
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Geofencing setup guide, 2026 product roadmap, Motive comparison
+
+External Links:
+ Help Center: "How Geofencing Works"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Does the mobile app work offline?
+
+Short Answer (30 Seconds):
+ Partial offline capability: drivers can view loaded trip details offline, but
+ need connectivity to update status. POD photos queue and upload when back
+ online.
+
+Detailed Talk Track:
+ The mobile app has partial offline functionality. Drivers can view all the
+ details of their assigned trips when offline - pickup and delivery addresses,
+ contact information, special instructions, and load details. However, they do
+ need cellular or WiFi connectivity to update statuses like arrived, departed,
+ or completed. If they capture POD photos or signatures while offline, those
+ queue locally on the device and automatically upload as soon as they regain
+ connectivity. This design ensures data integrity and prevents sync conflicts.
+ For most drivers, this works well since they have connectivity at customer
+ locations. If you have routes through areas with poor cell coverage, drivers
+ can download their trip information before departing and then sync updates
+ when back in range. Full offline capability with local database syncing is
+ something we're exploring for future releases.
+
+Category:
+ Mobile App
+
+Tags:
+ mobile app, offline, connectivity, sync, driver app
+
+Volume (from Gong):
+ Asked in 2 out of 8 calls (25% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Mobile app connectivity guide, Offline capabilities documentation
+
+External Links:
+ Help Center: "Mobile App Offline Mode"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can the mobile app be used in multiple languages?
+
+Short Answer (30 Seconds):
+ Yes, the mobile app supports English, Spanish, and French. Drivers can select
+ their preferred language in app settings.
+
+Detailed Talk Track:
+ Language support is built directly into the RoseRocket mobile app. Drivers
+ can choose from English, Spanish, or French as their display language in the
+ app settings. This is particularly valuable for diverse driver populations
+ where not everyone is comfortable with English. The entire app interface,
+ buttons, labels, and instructions translate to the selected language. This
+ improves driver adoption and reduces training time since drivers can work in
+ their native language. Each driver sets their own preference independently, so
+ different drivers on the same account can use different languages. The
+ language selection persists even after app updates. If you need additional
+ languages beyond these three, we can discuss custom translation options for
+ enterprise customers.
+
+Category:
+ Mobile App
+
+Tags:
+ mobile app, language, multilingual, spanish, french, translation
+
+Volume (from Gong):
+ Asked in 1 out of 8 calls (13% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Multi-language support guide, Driver onboarding in multiple languages
+
+External Links:
+ Help Center: "Mobile App Language Options"
+
+================================================================================
+                              CUSTOMIZATION
+================================================================================
+
+FAQ Question:
+ Can I create custom fields for my specific business needs?
+
+Short Answer (30 Seconds):
+ Yes, using Object Builder you can create unlimited custom fields - text,
+ number, money, date, dropdown, checkbox, or formula fields. No coding
+ required.
+
+Detailed Talk Track:
+ RoseRocket's Object Builder gives you complete control over customization
+ without any coding. You can create custom fields for any object in the system
+ - orders, customers, carriers, drivers, assets. The process is simple: go to
+ Settings, click Object Builder, choose where you want to add a field, then
+ select the field type: text for general information, number for quantities,
+ money for pricing, date for timestamps, dropdown for predefined choices,
+ checkbox for yes/no options, or formula for calculated fields. The field is
+ immediately available across the system. Common examples include rally program
+ numbers, company-specific pro bill formats, commodity subtypes, division
+ codes, and custom reference numbers. These custom fields are fully
+ integrated - they're searchable, filterable, and can be included on reports
+ and documents. This flexibility means the 20% of unique needs specific to
+ your business can be configured without expensive custom development.
+
+Category:
+ Customization
+
+Tags:
+ custom fields, object builder, customization, configuration, no-code
+
+Volume (from Gong):
+ Asked in 6 out of 8 calls (75% frequency - CRITICAL)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Object Builder tutorial, Custom fields best practices, Configuration guide
+
+External Links:
+ Help Center: "Creating Custom Fields"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ What sort of custom fields are other carriers adding?
+
+Short Answer (30 Seconds):
+ Common custom fields include commodity details, reference numbers, division
+ tracking, customer-specific codes, regulatory permits, and detention tracking
+ fields.
+
+Detailed Talk Track:
+ Based on our customer base, the most common custom fields fall into several
+ categories. For commodity tracking: dry bulk vs liquid bulk, specialized
+ materials, product codes. For operational needs: company-specific tracking
+ numbers, division or region codes, equipment type requirements. For customer
+ requirements: PO numbers, job site codes, project identifiers, gate codes.
+ For regulatory compliance: permit numbers, special handling codes, hazmat
+ classifications. For billing: detention start/end times, accessorial codes,
+ fuel surcharge calculations. Bulk carriers often create fields for tonnage,
+ material density, or temperature requirements. LTL operations add freight
+ class, NMFC codes, and stackability flags. The beautiful part is that
+ RoseRocket handles about 80% of needs out-of-box, so these custom fields
+ truly address your unique 20%. During onboarding, we review your current
+ processes and recommend which custom fields would add value.
+
+Category:
+ Customization
+
+Tags:
+ custom fields, examples, use cases, industry-specific, configuration
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Custom field examples library, Industry-specific configurations
+
+External Links:
+ Help Center: "Common Custom Field Examples"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can I customize the invoice, BOL, and other documents?
+
+Short Answer (30 Seconds):
+ Yes, all documents are fully customizable: invoices, BOLs, rate confirmations,
+ PODs, and pay stubs. Customization happens during onboarding with our support
+ team.
+
+Detailed Talk Track:
+ Document customization is a standard part of RoseRocket implementation. You
+ can fully customize the format and layout of invoices, bills of lading, rate
+ confirmations, proof of delivery documents, and driver pay stubs. This
+ includes adding your company logo, adjusting which fields appear and where,
+ incorporating any custom fields you've created, modifying the layout to match
+ your brand, and adjusting formatting for specific customer requirements. Our
+ implementation team handles the technical configuration during onboarding
+ based on your requirements and examples of your current documents. Most
+ customers bring us their existing templates, and we replicate the look and
+ feel in RoseRocket. The customized documents then generate automatically from
+ your data, maintaining consistency across all customer interactions. If you
+ need changes after go-live, your account manager can coordinate updates with
+ our support team.
+
+Category:
+ Customization
+
+Tags:
+ documents, invoices, bol, customization, templates, branding
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Document customization guide, Template examples, Branding requirements
+
+External Links:
+ Help Center: "Customizing Documents"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can all this be pre-configured for non-technical staff?
+
+Short Answer (30 Seconds):
+ Yes, absolutely. Our implementation team pre-configures everything during
+ onboarding. Users get simplified views based on their role and only see what
+ they need.
+
+Detailed Talk Track:
+ This is a major focus area for us because we hear this concern frequently.
+ During onboarding, our implementation team works closely with you to
+ pre-configure boards, views, fields, and workflows based on each team
+ member's role. Dispatch users get a streamlined view with only the modules
+ and fields they need for daily work - no overwhelming options. Accounting
+ users see their relevant financial modules. Non-technical staff receive
+ simplified interfaces that guide them through processes step-by-step. We
+ heard from one of your peers: "I know we've got a lot of people on our team
+ that aren't very advanced with computers." This is incredibly common, and our
+ onboarding process specifically addresses it through role-based
+ simplification. Users don't need to configure anything themselves - they log
+ in and see exactly what they need to do their job. Admin users retain full
+ access to make future adjustments, but frontline users experience a tailored,
+ straightforward system.
+
+Category:
+ Customization
+
+Tags:
+ configuration, non-technical, user-friendly, onboarding, role-based,
+ simplified
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Onboarding process guide, Role-based configuration, User training materials
+
+External Links:
+ Help Center: "Getting Started for Non-Technical Users"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can I set up multiple divisions on separate boards?
+
+Short Answer (30 Seconds):
+ Yes, create a custom Division field, then create filtered boards for each
+ division. Users only see their assigned division's data.
+
+Detailed Talk Track:
+ Division separation is straightforward and commonly configured during
+ onboarding. First, we create a custom field called Division with dropdown
+ options for your divisions - North, South, East, West, or whatever structure
+ you use. Then we create separate boards for each division with filters that
+ only show orders matching that division. We can configure user permissions so
+ North division users only have access to the North board and can't see other
+ divisions' orders. This creates functional separation while maintaining
+ centralized data and reporting at the management level. It's perfect for
+ regional operations, multiple business units, or different service lines like
+ asset vs brokerage. Each division essentially operates independently while
+ you maintain enterprise visibility. You can also create combined views for
+ managers who need to see across divisions. The entire setup takes about 30
+ minutes during onboarding and scales to as many divisions as you need.
+
+Category:
+ Customization
+
+Tags:
+ divisions, boards, multi-entity, filtering, permissions, regions
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Division configuration guide, Multi-location setup, Board filtering
+
+External Links:
+ Help Center: "Managing Multiple Divisions"
+
+================================================================================
+                        USER ACCESS & PERMISSIONS
+================================================================================
+
+FAQ Question:
+ Does this work for each individual user that logs in?
+
+Short Answer (30 Seconds):
+ Yes, each user can have personalized boards, views, column configurations, and
+ filters. They can duplicate shared boards and customize them without affecting
+ others.
+
+Detailed Talk Track:
+ RoseRocket provides complete user-level customization. Each person who logs in
+ can have their own personal boards and views, individual column
+ configurations, saved filters and searches, and personal dashboards. There are
+ two approaches: shared boards where changes affect all users with access, and
+ personal boards where a user duplicates a shared board and customizes it for
+ themselves - only they can see their version. This is important because
+ different users have different workflows. Your dispatch supervisor might want
+ to see columns organized one way, while a dispatcher prefers a different
+ layout. One user might group orders by status while another groups by
+ customer. Everyone can work their own way without conflicting with others.
+ The best practice we recommend is giving users personal boards so they can
+ organize their workspace to match how their brain works. This increases
+ adoption and efficiency.
+
+Category:
+ Permissions
+
+Tags:
+ users, personalization, boards, views, customization, individual access
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ User personalization guide, Board duplication tutorial
+
+External Links:
+ Help Center: "Personalizing Your Workspace"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Is there a way to only show specific modules to dispatch users?
+
+Short Answer (30 Seconds):
+ Yes, role-based module access lets you control which modules each role sees.
+ Dispatch might only see Orders and Drivers, while Accounting sees financial
+ modules.
+
+Detailed Talk Track:
+ Role-based module access is a core feature that prevents user overwhelm. As
+ an administrator, you configure which modules each role can see in the left
+ sidebar. For example, dispatch users might only see Orders, Manifests,
+ Drivers, and Assets - the operational modules they need daily. Accounting
+ users would see Invoices, Accounts Receivable, Accounts Payable, and Payroll
+ - their financial modules. Operations managers might see everything for full
+ visibility. This dramatically simplifies the interface for frontline users.
+ Instead of a sidebar with 15 modules they don't understand, they see only 4-5
+ relevant to their job. This reduces training time, prevents errors from users
+ accessing areas they shouldn't, and makes the system feel less overwhelming.
+ You can create as many roles as needed and adjust module access anytime. This
+ configuration happens during onboarding as part of our role-based setup
+ process.
+
+Category:
+ Permissions
+
+Tags:
+ roles, modules, access control, permissions, user interface, simplified
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Role configuration guide, Module access matrix
+
+External Links:
+ Help Center: "Setting Up Role-Based Access"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Does everybody have access to customer credit terms and sensitive info?
+
+Short Answer (30 Seconds):
+ No, you have field-level access control. Set fields to full access, read-only,
+ or hidden based on user role. Dispatch might see customer names but not
+ credit terms.
+
+Detailed Talk Track:
+ RoseRocket provides granular field-level permissions in addition to module
+ access. For any field in the system - whether built-in or custom - you can
+ configure three access levels by role: full access for read and write, read-
+ only for viewing but not editing, or hidden for no visibility at all. A
+ common configuration: dispatch users can see customer names and contact
+ information but credit terms are hidden. Accounting users can see and edit
+ all financial fields including credit limits and payment terms. Sales users
+ might see available credit to know if they can book more orders, but can't
+ change credit limits. This protects sensitive information while ensuring
+ people have the data they need for their jobs. You can get as granular as
+ needed - some customers even hide specific custom fields from certain users.
+ These permissions are set during onboarding and can be adjusted anytime as
+ roles evolve.
+
+Category:
+ Permissions
+
+Tags:
+ field-level security, permissions, sensitive data, credit terms, access
+ control
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Field permissions guide, Security configuration, Data privacy settings
+
+External Links:
+ Help Center: "Field-Level Permissions"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can users only see orders for their division/region?
+
+Short Answer (30 Seconds):
+ Yes, using Security Filters on boards. East division users would only see
+ East orders and cannot access orders outside their filter.
+
+Detailed Talk Track:
+ Security Filters provide data-level access control beyond just module and
+ field permissions. You can configure boards with filters that restrict which
+ records users can see based on criteria like division, region, customer type,
+ or any field in the system. For example, create an East division board with a
+ security filter where Division equals East. Users assigned to that board can
+ only see and interact with East orders - they cannot search for or access
+ orders from other divisions even if they try. This creates true data
+ separation while everyone works in the same system. It's perfect for regional
+ operations, commission-based sales territories, or multi-branch companies
+ where you need division of responsibility. Managers can have access to
+ multiple filtered boards to see across divisions, while frontline users stay
+ within their scope. Security filters are configured during onboarding by our
+ implementation team as part of your permission structure.
+
+Category:
+ Permissions
+
+Tags:
+ security filters, data access, division access, regional permissions, boards
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Security filters documentation, Multi-division configuration
+
+External Links:
+ Help Center: "Using Security Filters"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can users duplicate a shared board for personal customization?
+
+Short Answer (30 Seconds):
+ Yes, any user can duplicate a shared board, name it (like "Joe's Orders"),
+ customize it, and only they and admins can see their version.
+
+Detailed Talk Track:
+ Board duplication is designed to give users personal customization freedom.
+ Any user can take a shared board, click Duplicate Board, give it a personal
+ name like "Joe's Orders View" or "My Dispatch Board," and then make whatever
+ customizations they want - add columns, change grouping, adjust filters,
+ modify colors. Only that user and system administrators can see their personal
+ board. The original shared board remains unchanged for everyone else. This is
+ valuable because one dispatcher might want orders grouped by status while
+ another prefers grouping by customer. One person might want profitability
+ visible while another focuses on ETA. Everyone gets the exact view they need
+ without forcing everyone into the same layout. Users can create multiple
+ personal boards for different purposes - one for active dispatch, one for
+ delivered loads, one for problem orders. This flexibility dramatically
+ improves user satisfaction and productivity.
+
+Category:
+ Permissions
+
+Tags:
+ board duplication, personalization, user customization, views, boards
+
+Volume (from Gong):
+ Asked in 2 out of 8 calls (25% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Board duplication tutorial, Personal workspace setup
+
+External Links:
+ Help Center: "Duplicating and Customizing Boards"
+
+================================================================================
+                         ONBOARDING & SETUP
+================================================================================
+
+FAQ Question:
+ How long does onboarding take?
+
+Short Answer (30 Seconds):
+ Standard timeline is 60-90 days with a 3-month activation period. Fast-track
+ option available in 30 days for motivated teams. You can start using the
+ system while training.
+
+Detailed Talk Track:
+ RoseRocket onboarding typically follows a 60-90 day timeline, though we offer
+ flexibility based on your needs and urgency. The structure includes: weeks 1-2
+ for account setup, data migration, and initial configuration; weeks 3-4 for
+ user training and workflow customization; weeks 5-8 for parallel system
+ testing where you run both your old and new systems; and weeks 9-12 for full
+ cutover and optimization. For highly motivated teams with simpler operations,
+ we offer a fast-track option that can complete in 30 days. The key advantage
+ is you can start using RoseRocket immediately while training continues - many
+ customers run both systems in parallel during transition to ensure smooth
+ handoff. You're assigned a dedicated implementation specialist who conducts
+ weekly calls and provides comprehensive support throughout. The 3-month
+ activation period ensures adequate time for your team to become proficient
+ before committing to the 12-month contract.
+
+Category:
+ Onboarding
+
+Tags:
+ onboarding, implementation, timeline, setup, activation, training
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Onboarding roadmap, Implementation timeline, Training schedule
+
+External Links:
+ Help Center: "What to Expect During Onboarding"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can we use RoseRocket while our team is still learning it?
+
+Short Answer (30 Seconds):
+ Yes! Start with pilot users, run parallel with your current system, and
+ gradually transition teams. Full support is provided during the transition.
+
+Detailed Talk Track:
+ This is not only possible but actually our recommended approach. Most
+ successful implementations start with a pilot group - typically 2-3
+ dispatchers or a single division. They begin creating orders and working in
+ RoseRocket while the rest of the team continues with your current system. As
+ the pilot users gain confidence and you validate workflows, you gradually
+ expand to additional teams. Many customers run both systems completely in
+ parallel for 30-60 days, entering the same orders in both places, to ensure
+ nothing falls through the cracks. This phased approach reduces risk and
+ allows learning without pressure. You have full support from your
+ implementation specialist during this entire period - weekly calls, ad-hoc
+ questions, and access to training materials. The best practice is starting
+ with your dispatch team since they're creating orders, then expanding to
+ accounting and other departments once dispatch is comfortable.
+
+Category:
+ Onboarding
+
+Tags:
+ parallel systems, training, pilot users, transition, implementation
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Parallel system guide, Pilot program best practices, Phased rollout plan
+
+External Links:
+ Help Center: "Running Parallel Systems"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ What support is included during onboarding?
+
+Short Answer (30 Seconds):
+ You get a dedicated implementation team, data migration assistance, system
+ configuration, user training, ongoing support via email/phone/chat, knowledge
+ base access, and an account manager.
+
+Detailed Talk Track:
+ RoseRocket onboarding includes comprehensive support at no additional cost.
+ You're assigned a dedicated implementation specialist who becomes your primary
+ contact throughout the process. They conduct weekly video calls to track
+ progress and address questions. Data migration assistance includes helping you
+ export from your current system, mapping fields, importing into RoseRocket,
+ and validation. System configuration covers all the setup: custom fields,
+ boards, permissions, document templates, and integrations. User training
+ includes both live sessions and recorded modules your team can reference
+ anytime. You also get ongoing support through email, phone, and live chat with
+ our support team. The knowledge base and help center provide self-service
+ documentation and tutorials. After go-live, your account manager remains your
+ long-term contact for questions, best practices, and optimization. This
+ comprehensive support model ensures you're never left figuring things out
+ alone.
+
+Category:
+ Onboarding
+
+Tags:
+ support, implementation team, training, assistance, account manager
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Support resources, Training materials library, Contact information
+
+External Links:
+ Help Center: "Onboarding Support Overview"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can you migrate our data for us?
+
+Short Answer (30 Seconds):
+ Yes, data migration support is included. We help you export from your current
+ system, map fields, import into RoseRocket, and validate everything
+ transferred correctly.
+
+Detailed Talk Track:
+ Data migration is a standard component of RoseRocket onboarding, included in
+ your subscription. Our implementation team guides the entire process. First,
+ we help you export data from your current system - whether that's Avaal, TMW,
+ McLeod, or a custom platform - typically in CSV format. We then work together
+ to map your existing field structure to RoseRocket's data model. Common
+ migrations include customer databases with contact and credit information,
+ carrier and partner lists, driver profiles with credentials and contact
+ details, asset and equipment inventories, and optionally historical order data
+ if you need it for reference. We import the data, run validation checks to
+ ensure accuracy, and work with you to clean up any issues. The process is
+ collaborative - you maintain control over what gets migrated and timing. Most
+ data migrations complete within the first two weeks of onboarding. We've
+ successfully migrated data from dozens of different systems and have proven
+ templates and processes.
+
+Category:
+ Onboarding
+
+Tags:
+ data migration, import, export, setup, implementation, tms migration
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Data migration checklist, Field mapping guide, CSV templates
+
+External Links:
+ Help Center: "Data Migration Process"
+
+================================================================================
+                         REPORTING & VISIBILITY
+================================================================================
+
+FAQ Question:
+ How can I get profitability margin for each load?
+
+Short Answer (30 Seconds):
+ Built-in profitability tracking shows revenue minus all costs (carrier pay,
+ driver pay, fuel, accessorials) in real-time on each order and in reports.
+
+Detailed Talk Track:
+ RoseRocket calculates profitability automatically by tracking revenue and all
+ associated costs. Revenue comes from your customer invoice amount. Costs
+ include carrier or partner payments, driver pay, fuel surcharges, detention,
+ and any other accessorials you add. The system calculates margin as revenue
+ minus costs and displays it in multiple places: directly on the individual
+ order screen as you're working, in dedicated profitability reports you can
+ filter by customer or date range, on the order list board by adding a margin
+ column and percentage column, and in dashboard widgets for at-a-glance
+ visibility. The calculations update in real-time as costs are added to orders,
+ so you always have current margin data. This helps with quick decision-making
+ on whether to accept loads, pricing negotiations, and identifying which
+ customers and lanes are most profitable. You can also create margin-based
+ alerts if loads fall below your target thresholds.
+
+Category:
+ Reporting
+
+Tags:
+ profitability, margin, revenue, costs, financial reporting, analytics
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Profitability reporting guide, Margin analysis, Financial dashboards
+
+External Links:
+ Help Center: "Understanding Profitability Tracking"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Is there live tracking that customers can see?
+
+Short Answer (30 Seconds):
+ Yes. Generate shareable links for individual orders or create customer portal
+ boards. Customers see real-time GPS, status updates, and ETAs without logging
+ in.
+
+Detailed Talk Track:
+ RoseRocket provides two options for customer visibility. Option one is single
+ order sharing: generate a unique shareable link for any order and email it to
+ your customer. They click the link without needing login credentials and see
+ real-time GPS location via your ELD integration, current pickup/delivery
+ status, updated ETA, and all order details you choose to share. Option two is
+ customer portal boards: create a board filtered for a specific customer
+ showing all their loads, share a permanent link they can bookmark, and it
+ updates in real-time as status changes. This significantly reduces "where's my
+ truck" calls to your operations team. You maintain complete control over what
+ information customers can see - some companies share everything, others only
+ show high-level status. The tracking pages are mobile-responsive so customers
+ can check from their phones. This transparency improves customer satisfaction
+ and differentiates your service.
+
+Category:
+ Visibility
+
+Tags:
+ customer portal, tracking, live tracking, visibility, eld, customer access
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Customer portal setup, Tracking page configuration, Visibility best practices
+
+External Links:
+ Help Center: "Customer Tracking and Visibility"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Do you have a dashboard to track loaded vs empty trailers?
+
+Short Answer (30 Seconds):
+ Yes, asset management shows which trailers are assigned to active loads versus
+ available. Create custom dashboard widgets showing total, loaded, empty, and
+ out-of-service counts.
+
+Detailed Talk Track:
+ RoseRocket's asset management module provides complete visibility into
+ equipment utilization. The system automatically tracks which trailers are
+ currently assigned to active trips - these show as loaded. Unassigned trailers
+ show as available or empty. If you have GPS tracking integrated on your
+ trailers, you can also see real-time location on a map. You can create custom
+ dashboard widgets displaying total trailer count, loaded count with
+ percentage, empty count with percentage, and out-of-service equipment that
+ needs maintenance. This dashboard gives you instant visibility into asset
+ utilization and helps with equipment planning. You can also set automated
+ alerts for trailers sitting empty at customer locations beyond a certain
+ threshold - for example, notify you if a trailer has been at a customer site
+ for more than 48 hours. The asset module integrates seamlessly with dispatch,
+ so trailer status updates automatically as they're assigned to and removed
+ from loads.
+
+Category:
+ Reporting
+
+Tags:
+ assets, trailers, equipment, utilization, dashboard, tracking
+
+Volume (from Gong):
+ Asked in 2 out of 8 calls (25% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Asset management guide, Dashboard configuration, Equipment tracking
+
+External Links:
+ Help Center: "Asset Tracking and Dashboards"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can I see how many miles a driver is running per week?
+
+Short Answer (30 Seconds):
+ Yes, view driver mileage in driver profiles with timeframe filters, add
+ mileage columns to boards grouped by driver, or use driver performance
+ reports.
+
+Detailed Talk Track:
+ Driver mileage visibility is built into multiple areas of RoseRocket. In the
+ driver profile, you can view total miles with flexible timeframe filters -
+ current week, month, quarter, year-to-date, or custom date ranges. This
+ historical view helps with compensation planning and utilization analysis. In
+ the Manifests board, add a "Total Miles" column and group by driver to see a
+ side-by-side comparison of weekly mileage across your entire driver fleet.
+ There's also a dedicated driver performance report that breaks down miles,
+ revenue, number of trips, and average miles per trip by driver over any
+ period you specify. If you use Timeline View grouped by driver, you can
+ visually see each driver's schedule and the mileage associated with each load.
+ Mileage calculations are automatic based on the routes in each order, or you
+ can manually override if needed. This data supports driver pay calculations,
+ helps balance workload fairly across your fleet, and identifies utilization
+ opportunities.
+
+Category:
+ Reporting
+
+Tags:
+ driver, mileage, tracking, reports, performance, analytics, utilization
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Driver reporting guide, Performance analytics, Mileage tracking
+
+External Links:
+ Help Center: "Driver Mileage Reports"
+
+================================================================================
+                         DATA TRACKING & AUDIT
+================================================================================
+
+FAQ Question:
+ Is there a history of changes showing who made that change?
+
+Short Answer (30 Seconds):
+ Yes, complete audit trail. Every change is logged with the user who made it,
+ date and time, and before/after values. View in the Activity panel on each
+ order.
+
+Detailed Talk Track:
+ RoseRocket maintains a comprehensive audit trail for accountability and
+ transparency. Every change made to an order - or any other record in the
+ system - is logged with the specific user who made the change, exact date and
+ timestamp, and what was changed including before and after values. This
+ appears in the Activity panel on each order, showing a chronological history
+ of all modifications. You can see who changed the rate, who reassigned the
+ driver, who updated the status, who added accessorial charges - everything.
+ This creates complete accountability and eliminates "I never changed that"
+ situations. As one customer put it: "So nobody can say they never changed
+ something - we know exactly who did." Managers love this feature for
+ accountability and training purposes. It's also valuable for resolving
+ customer disputes when you can show exactly when and who updated information.
+ The audit log is permanent and cannot be edited or deleted, ensuring data
+ integrity.
+
+Category:
+ Audit
+
+Tags:
+ audit trail, change history, accountability, tracking, user activity, logging
+
+Volume (from Gong):
+ Asked in 6 out of 8 calls (75% frequency - CRITICAL)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Audit trail documentation, Activity log guide, Accountability features
+
+External Links:
+ Help Center: "Viewing Change History and Audit Logs"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ So nobody can say they never changed something?
+
+Short Answer (30 Seconds):
+ Correct. Every edit is permanently tracked with user, timestamp, and
+ before/after values. Complete transparency equals accountability.
+
+Detailed Talk Track:
+ Exactly - that's the entire purpose of the audit trail. Every single edit
+ made in the system is permanently logged and cannot be altered or deleted. If
+ someone changes a rate, reassigns a driver, updates delivery status, modifies
+ a customer address, or makes any other change, it's recorded with their user
+ account, the exact date and time, and what the values were before and after
+ the change. This creates ironclad accountability. You can pull up any order
+ and see the complete history of modifications. This is particularly valuable
+ when investigating errors, resolving customer complaints, or managing employee
+ performance. If there's a dispute about when information was updated or who
+ made a mistake, the audit log provides definitive answers. The transparency
+ also tends to improve accuracy because users know their actions are tracked.
+ As you mentioned, managers love this feature while workers are sometimes less
+ enthusiastic, but ultimately it creates a culture of accountability and
+ accuracy that benefits everyone.
+
+Category:
+ Audit
+
+Tags:
+ audit trail, accountability, tracking, transparency, change management
+
+Volume (from Gong):
+ Asked in 3 out of 8 calls (38% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Accountability best practices, Using audit logs for training
+
+External Links:
+ Help Center: "Understanding the Audit Trail"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Do you track detention time?
+
+Short Answer (30 Seconds):
+ Yes, using custom formula fields that automatically calculate departure time
+ minus arrival time. Can set billing thresholds and generate detention reports.
+
+Detailed Talk Track:
+ Detention time tracking is configured during onboarding using RoseRocket's
+ custom formula fields. We create a field that automatically calculates the
+ difference between when a driver marks arrived and when they mark departed at
+ each stop. You can set thresholds - for example, anything over 2 hours
+ triggers detention charges. As drivers update their arrival and departure
+ times via the mobile app, the system calculates detention automatically in
+ real-time. You can then create reports showing total detention hours by
+ customer, total detention charges owed, and which facilities consistently have
+ the longest detention times. This data feeds directly into your invoicing
+ workflow, so detention charges can be added to customer invoices automatically.
+ It's also valuable for operational analysis - identifying problem facilities,
+ negotiating better terms with chronic offenders, and planning routes to avoid
+ high-detention locations. The entire setup takes about 15 minutes during
+ onboarding and then runs automatically forever.
+
+Category:
+ Audit
+
+Tags:
+ detention, tracking, billing, formulas, accessorials, time tracking
+
+Volume (from Gong):
+ Asked in 5 out of 8 calls (63% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Detention tracking setup, Custom formula fields, Accessorial billing guide
+
+External Links:
+ Help Center: "Tracking and Billing Detention Time"
+
+================================================================================
+                       CUSTOMER/PARTNER SHARING
+================================================================================
+
+FAQ Question:
+ Can we share information with brokers or carriers?
+
+Short Answer (30 Seconds):
+ Yes, two methods: generate single-order shareable links for specific loads, or
+ create permanent filtered boards that partners can bookmark to see all their
+ current loads.
+
+Detailed Talk Track:
+ RoseRocket provides flexible sharing capabilities for external partners.
+ Method one is single order links: click "Share Link" on any order, send the
+ unique URL to your broker or carrier, and they can view order details you've
+ chosen to share without needing to log in. You control what's visible - full
+ details, limited information, or specific fields. Method two is shared boards:
+ create a board filtered for a specific partner showing all loads you're
+ hauling for them or they're hauling for you, generate a permanent shareable
+ link, and they bookmark it for ongoing access. The board updates in real-time
+ as new loads are added or statuses change. This is perfect for brokers you
+ work with regularly who want visibility into all their loads with you. The
+ access is read-only - partners can't edit anything - and you can revoke access
+ anytime. This eliminates constant "what's the status" phone calls and emails,
+ improving efficiency for both parties.
+
+Category:
+ Sharing
+
+Tags:
+ sharing, external access, brokers, carriers, partners, visibility, portals
+
+Volume (from Gong):
+ Asked in 4 out of 8 calls (50% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ External sharing guide, Partner portal setup, Security and access control
+
+External Links:
+ Help Center: "Sharing with Brokers and Carriers"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Would this be a separate web link or combined in the main portal?
+
+Short Answer (30 Seconds):
+ It's a separate shareable link. Partners receive a unique URL, not tied to
+ your main portal. Read-only access that can be revoked anytime.
+
+Detailed Talk Track:
+ When you share information with external partners, they receive a unique URL
+ that's completely separate from your main RoseRocket portal login. The link
+ provides read-only access to only the specific information you've chosen to
+ share - either a single order or a filtered board of their loads. They don't
+ get access to your overall system, can't see other customers' data, and can't
+ make any edits. The link works without requiring them to create an account or
+ log in, making it extremely simple for partners to access. You maintain
+ complete control - you can revoke access to the link at any time if your
+ relationship with that partner ends. For customers who use shared boards, they
+ typically bookmark the URL and check it whenever they need status updates,
+ rather than calling or emailing you. This separate link approach provides
+ secure, controlled access without giving external parties any deeper access to
+ your system.
+
+Category:
+ Sharing
+
+Tags:
+ external links, sharing, security, access control, portals, read-only
+
+Volume (from Gong):
+ Asked in 2 out of 8 calls (25% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Security best practices, External access management
+
+External Links:
+ Help Center: "How External Sharing Links Work"
+
+--------------------------------------------------------------------------------
+
+FAQ Question:
+ Can customers see their invoices online?
+
+Short Answer (30 Seconds):
+ Not directly through RoseRocket currently. Workarounds include auto-emailing
+ invoices via QuickBooks, sharing boards with invoice status, or using
+ QuickBooks customer portal.
+
+Detailed Talk Track:
+ RoseRocket doesn't currently have a direct customer-facing invoice portal
+ where customers can log in and view their billing history. However, there are
+ several effective workarounds. Most commonly, customers configure their
+ QuickBooks integration to automatically email invoices to customers as PDFs
+ when generated - this is the standard approach most companies use.
+ Alternatively, you can create a shared board that shows a customer all their
+ orders along with invoice status (invoiced, paid, outstanding) - they can't
+ view the actual invoice document, but they see what's been billed and payment
+ status. If you use QuickBooks Online, you can leverage QuickBooks' native
+ customer portal where customers log in directly to view and pay invoices. Some
+ customers also use third-party accounts receivable portals that integrate with
+ QuickBooks. A native customer invoice portal is something we're evaluating for
+ future releases based on customer feedback, so it may be added to the product
+ roadmap.
+
+Category:
+ Sharing
+
+Tags:
+ invoices, customer portal, billing, quickbooks, customer access, accounts
+ receivable
+
+Volume (from Gong):
+ Asked in 2 out of 8 calls (25% frequency)
+
+Last Updated:
+ 2025-12-01
+
+Internal Links:
+ Invoice delivery options, QuickBooks portal setup, AR best practices
+
+External Links:
+ Help Center: "Customer Invoice Delivery Options"
+
+================================================================================
+                              QUICK REFERENCE
+================================================================================
+
+TOP 10 MOST ASKED QUESTIONS:
+
+1. What is a "record"? (75% frequency)
+   -> Orders, invoices, quotes = records. Stops, documents, status updates
+      NOT records. ~$0.04 each.
+
+2. Does RoseRocket integrate with QuickBooks? (88% frequency - CRITICAL)
+   -> Yes, real-time bi-directional sync of invoices, payments, customers.
+
+3. Are there other dispatch views? (75% frequency - CRITICAL)
+   -> Yes, Table View and Timeline/Calendar View with driver grouping.
+
+4. Can I create custom fields? (75% frequency - CRITICAL)
+   -> Yes, unlimited custom fields via Object Builder. No coding required.
+
+5. Is there audit history of changes? (75% frequency - CRITICAL)
+   -> Yes, complete audit trail with user, timestamp, and before/after values.
+
+6. Are drivers using mobile app for POD? (75% frequency)
+   -> Yes, native iOS/Android app with scanning, signatures, and photos.
+
+7. What are contract terms? (75% frequency)
+   -> 3-month activation (month-to-month), then 12-month commitment.
+
+8. How long does onboarding take? (50% frequency)
+   -> 60-90 days standard, 30-day fast-track available. Can start using
+      immediately.
+
+9. Do you integrate with ELDs? (63% frequency)
+   -> Yes: Motive, Samsara, Geotab, Platform Science for GPS and tracking.
+
+10. Does geofencing auto-arrive drivers? (50% frequency)
+    -> No, manual click currently. Notification sent. Auto-arrival on 2026
+       roadmap.
+
+================================================================================
+                          DOCUMENT INFORMATION
+================================================================================
+
+Created: December 1, 2025
+Version: 2.0 (Sales Enablement Edition)
+Source Data: 8 Gong call transcripts, October-November 2025
+Questions Analyzed: 456 total prospect questions
+Calls Analyzed: 8 demos conducted by Karandeep Singh
+Created By: Claude AI FAQ Engine
+Next Update: Monthly based on ongoing call analysis
+
+================================================================================
+
+For updates or questions about this FAQ, contact the Sales Enablement team.
+
+================================================================================
+
+
